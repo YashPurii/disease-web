@@ -1,0 +1,28 @@
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated API caches and large refresh inputs
+data/raw/minimal_etl/
+data/raw/full_label_overlap/
+data/raw/source_probe/*.html
+data/raw/source_probe/*.txt
+
+# Frontend dependencies and build output
+web/node_modules/
+web/dist/
+web/.vite/
+web/*.local
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store

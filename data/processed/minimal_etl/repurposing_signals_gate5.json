@@ -1,0 +1,805 @@
+{
+  "summary": {
+    "raw_different_condition_pairs": 93,
+    "after_meaningful_difference_filter": 22,
+    "after_active_status_and_phase": 22,
+    "after_duplicate_trial_condition_collapse": 21,
+    "final_signal_count": 9,
+    "distinct_drugs": 9,
+    "top_four_signal_count": 4,
+    "top_four_share": 0.4444444444444444
+  },
+  "signals": [
+    {
+      "drug": "losartan",
+      "approved_use": "diabetic kidney disease",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 1843ee4b-1afc-4992-993a-4b0e03e785fc; Orange Book N 218772",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1843ee4b-1afc-4992-993a-4b0e03e785fc",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "Coronary Artery Disease",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT03417388",
+      "trial_url": "https://clinicaltrials.gov/study/NCT03417388",
+      "trial_phase": [
+        "PHASE4"
+      ],
+      "trial_status": "ACTIVE_NOT_RECRUITING",
+      "trial_arm_type": "combination",
+      "combination_partner_drugs": [
+        "aspirin",
+        "losartan"
+      ],
+      "trial_intervention_names": [
+        "ACE-I (lisinopril) or ARB (losartan)"
+      ],
+      "last_update_date": "2026-05-29",
+      "ranking_score": 60,
+      "score_breakdown": {
+        "phase": 40,
+        "status": 8,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "topiramate",
+      "approved_use": "migraine disorder",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid e846124d-e9e6-42c7-83f1-5df170d3f70b; Orange Book N 205122",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e846124d-e9e6-42c7-83f1-5df170d3f70b",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "Tinnitus",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT06799169",
+      "trial_url": "https://clinicaltrials.gov/study/NCT06799169",
+      "trial_phase": [
+        "PHASE4"
+      ],
+      "trial_status": "ACTIVE_NOT_RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "Topiramate"
+      ],
+      "last_update_date": "2025-10-10",
+      "ranking_score": 60,
+      "score_breakdown": {
+        "phase": 40,
+        "status": 8,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "atorvastatin",
+      "approved_use": "coronary artery disorder",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 303989c9-823e-4bcb-a7b3-7024fd0d3a38; Orange Book N 213260",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=303989c9-823e-4bcb-a7b3-7024fd0d3a38",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "Chronic Periodontitis",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT07634341",
+      "trial_url": "https://clinicaltrials.gov/study/NCT07634341",
+      "trial_phase": [
+        "PHASE4"
+      ],
+      "trial_status": "NOT_YET_RECRUITING",
+      "trial_arm_type": "combination",
+      "combination_partner_drugs": [
+        "atorvastatin",
+        "doxycycline"
+      ],
+      "trial_intervention_names": [
+        "Doxycycline and Atorvastatin loaded Chitosan nanoparticles local drug"
+      ],
+      "last_update_date": "2026-06-08",
+      "ranking_score": 56,
+      "score_breakdown": {
+        "phase": 40,
+        "status": 4,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "pregabalin",
+      "approved_use": "Fibromyalgia",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 3d9d7123-5886-4b61-a7ea-471b213e77d9; Orange Book N 021446",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d9d7123-5886-4b61-a7ea-471b213e77d9",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "Cough",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT07288528",
+      "trial_url": "https://clinicaltrials.gov/study/NCT07288528",
+      "trial_phase": [
+        "PHASE4"
+      ],
+      "trial_status": "NOT_YET_RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "Pregabalin"
+      ],
+      "last_update_date": "2025-12-17",
+      "ranking_score": 56,
+      "score_breakdown": {
+        "phase": 40,
+        "status": 4,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "doxycycline",
+      "approved_use": "Malaria",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid fad03768-f1d2-459f-965e-0ec29f189f1f; Orange Book N 050641",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fad03768-f1d2-459f-965e-0ec29f189f1f",
+      "approved_anchor_primary_designation_available": false,
+      "approved_anchor_note": "DailyMed labels list multiple co-equal antimicrobial and prophylactic indications; Malaria was a deterministic seed-term match, not a primary indication.",
+      "available_approved_indications": "rickettsial, sexually transmitted, respiratory, bacterial, ophthalmic, anthrax, penicillin-alternative, amebiasis/acne, malaria-prophylaxis, and adult periodontitis adjunctive treatment",
+      "investigational_use": "HIV infectious disease",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT07658976",
+      "trial_url": "https://clinicaltrials.gov/study/NCT07658976",
+      "trial_phase": [
+        "PHASE3"
+      ],
+      "trial_status": "NOT_YET_RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "STI PEP - Doxycycline as Doxy-PEP"
+      ],
+      "last_update_date": "2026-06-22",
+      "ranking_score": 46,
+      "score_breakdown": {
+        "phase": 30,
+        "status": 4,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "baricitinib",
+      "approved_use": "COVID-19",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 866e9f35-9035-4581-a4b1-75a621ab55cf; Orange Book N 207924",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "traumatic brain injury",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT06065046",
+      "trial_url": "https://clinicaltrials.gov/study/NCT06065046",
+      "trial_phase": [
+        "PHASE2"
+      ],
+      "trial_status": "RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "Baricitinib 4 MG"
+      ],
+      "last_update_date": "2026-04-13",
+      "ranking_score": 44,
+      "score_breakdown": {
+        "phase": 20,
+        "status": 12,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "colchicine",
+      "approved_use": "Gout",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 72984aa2-6df9-4460-9926-399ffed30e36; Orange Book N 204820",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72984aa2-6df9-4460-9926-399ffed30e36",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "pancreatic ductal adenocarcinoma",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT06813079",
+      "trial_url": "https://clinicaltrials.gov/study/NCT06813079",
+      "trial_phase": [
+        "PHASE2"
+      ],
+      "trial_status": "RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "Colchicine"
+      ],
+      "last_update_date": "2026-06-23",
+      "ranking_score": 44,
+      "score_breakdown": {
+        "phase": 20,
+        "status": 12,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "metformin",
+      "approved_use": "Diabetes Mellitus, Type 2",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 25be863d-490c-47f6-9ad3-c828dc43fbf0; Orange Book A 211309",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25be863d-490c-47f6-9ad3-c828dc43fbf0",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "Endometriosis",
+      "investigational_use_category": "disease",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT06611501",
+      "trial_url": "https://clinicaltrials.gov/study/NCT06611501",
+      "trial_phase": [
+        "PHASE2"
+      ],
+      "trial_status": "RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "Metformin Hydrochloride"
+      ],
+      "last_update_date": "2026-02-20",
+      "ranking_score": 44,
+      "score_breakdown": {
+        "phase": 20,
+        "status": 12,
+        "recency": 12
+      }
+    },
+    {
+      "drug": "sirolimus",
+      "approved_use": "neoplasm with perivascular epithelioid cell differentiation",
+      "approved_use_category": "disease",
+      "approved_evidence": "DailyMed setid 0f9bb784-53e2-46f9-a65d-1c6c2a230eaf; Orange Book N 213478",
+      "approved_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf",
+      "approved_anchor_primary_designation_available": null,
+      "approved_anchor_note": "No special anchor-selection limitation recorded for this drug.",
+      "available_approved_indications": null,
+      "investigational_use": "Aging",
+      "investigational_use_category": "research_condition",
+      "investigational_evidence": "ClinicalTrials.gov API v2",
+      "nct_id": "NCT06658093",
+      "trial_url": "https://clinicaltrials.gov/study/NCT06658093",
+      "trial_phase": [
+        "EARLY_PHASE1"
+      ],
+      "trial_status": "RECRUITING",
+      "trial_arm_type": "single_drug",
+      "combination_partner_drugs": [],
+      "trial_intervention_names": [
+        "Rapamycin"
+      ],
+      "last_update_date": "2026-06-01",
+      "ranking_score": 29,
+      "score_breakdown": {
+        "phase": 5,
+        "status": 12,
+        "recency": 12
+      }
+    }
+  ],
+  "removals": [
+    {
+      "drug": "semaglutide",
+      "investigational": "Obesity & Overweight",
+      "nct_id": "NCT07430059",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "gabapentin",
+      "investigational": "Heavy Drinking",
+      "nct_id": "NCT05443555",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "metformin",
+      "investigational": "Pelvic Pain",
+      "nct_id": "NCT06611501",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "colchicine",
+      "investigational": "Diabete Type 2",
+      "nct_id": "NCT05633810",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "imatinib",
+      "investigational": "lymphoblastic leukemia, acute, with lymphomatous features",
+      "nct_id": "NCT04307576",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "thalidomide",
+      "investigational": "DS Stage II Multiple Myeloma",
+      "nct_id": "NCT00098475",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "empagliflozin",
+      "investigational": "CAD - Coronary Artery Disease",
+      "nct_id": "NCT07292909",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "pregabalin",
+      "investigational": "Acute Pain",
+      "nct_id": "NCT07549490",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "tocilizumab",
+      "investigational": "Multiple Myeloma Refractory",
+      "nct_id": "NCT07637578",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "atorvastatin",
+      "investigational": "Independent Living",
+      "nct_id": "NCT02099123",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "propranolol",
+      "investigational": "Clinical Stage II Esophageal Adenocarcinoma AJCC v8",
+      "nct_id": "NCT05651594",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "mifepristone",
+      "investigational": "Treatment-resistant PTSD",
+      "nct_id": "NCT06689254",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "bevacizumab",
+      "investigational": "Rhabdomyosarcoma",
+      "nct_id": "NCT01871766",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "empagliflozin",
+      "investigational": "Inflamation",
+      "nct_id": "NCT07292909",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "finasteride",
+      "investigational": "Lower Urinary Track Symptoms",
+      "nct_id": "NCT06944145",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "minoxidil",
+      "investigational": "androgenetic alopecia",
+      "nct_id": "NCT07563036",
+      "reason": "same-family or near-label expansion (alopecia)"
+    },
+    {
+      "drug": "spironolactone",
+      "investigational": "Hypertension (HTN)",
+      "nct_id": "NCT07223502",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "misoprostol",
+      "investigational": "Postpartum Complication",
+      "nct_id": "NCT07353281",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "amitriptyline",
+      "investigational": "Microvesicle Particles",
+      "nct_id": "NCT07640061",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "bupropion",
+      "investigational": "Methamphetamine-dependence",
+      "nct_id": "NCT06233799",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "ketamine",
+      "investigational": "Cardiac Surgery",
+      "nct_id": "NCT05268562",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "tocilizumab",
+      "investigational": "Multiple Myeloma (MM)",
+      "nct_id": "NCT07637578",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "colchicine",
+      "investigational": "Cardiovascular Diseases",
+      "nct_id": "NCT05633810",
+      "reason": "already covered by a full DailyMed label audit: DailyMed setid ff06d68f-d65f-d097-e053-6294a90a7e5f https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff06d68f-d65f-d097-e053-6294a90a7e5f"
+    },
+    {
+      "drug": "imatinib",
+      "investigational": "Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia",
+      "nct_id": "NCT06061094",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "naltrexone",
+      "investigational": "Methamphetamine Abuse",
+      "nct_id": "NCT06233799",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "tamoxifen",
+      "investigational": "Adjuvant Therapy",
+      "nct_id": "NCT07101159",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "bupropion",
+      "investigational": "Methamphetamine Abuse",
+      "nct_id": "NCT06233799",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "anastrozole",
+      "investigational": "Quality of Life",
+      "nct_id": "NCT05472792",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "doxycycline",
+      "investigational": "Chronic Periodontitis",
+      "nct_id": "NCT07634341",
+      "reason": "already has a verified approved-use overlap: DailyMed setid b3cd7b44-db40-4ce5-895e-d4c85a0068ae: doxycycline hyclate is labeled as an adjunct to scaling/root planing for adult periodontitis"
+    },
+    {
+      "drug": "propranolol",
+      "investigational": "Clinical Stage III Esophageal Adenocarcinoma AJCC v8",
+      "nct_id": "NCT05651594",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "thalidomide",
+      "investigational": "chronic lymphoproliferative disorder of NK-cells",
+      "nct_id": "NCT06530576",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "semaglutide",
+      "investigational": "Diabetes Mellitus",
+      "nct_id": "NCT07621419",
+      "reason": "same-family or near-label expansion (diabetes)"
+    },
+    {
+      "drug": "finasteride",
+      "investigational": "Prostate Hyperplasia",
+      "nct_id": "NCT04288427",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "aspirin",
+      "investigational": "Stroke",
+      "nct_id": "NCT06486792",
+      "reason": "already covered by a full DailyMed label audit: DailyMed setid 41386de5-5857-efab-e063-6294a90afd9c https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41386de5-5857-efab-e063-6294a90afd9c"
+    },
+    {
+      "drug": "rituximab",
+      "investigational": "Interstitial Lung Disease With Systemic Sclerosis",
+      "nct_id": "NCT06549231",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "tamoxifen",
+      "investigational": "Hormone Receptor Positive Tumor",
+      "nct_id": "NCT02592083",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "sildenafil",
+      "investigational": "traumatic brain injury",
+      "nct_id": "NCT05782244",
+      "reason": "full DailyMed label audit incomplete for this drug; fail-closed until every listed SPL is retrievable"
+    },
+    {
+      "drug": "tocilizumab",
+      "investigational": "Polyarticular Course Juvenile Idiopathic Arthritis (JIA)",
+      "nct_id": "NCT06654882",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "finasteride",
+      "investigational": "BPH (Benign Prostatic Hyperplasia)",
+      "nct_id": "NCT06944145",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "atorvastatin",
+      "investigational": "Disability Free Survival",
+      "nct_id": "NCT02099123",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "minoxidil",
+      "investigational": "Androgenic Alopecia",
+      "nct_id": "NCT07373054",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "pregabalin",
+      "investigational": "Refractory Chronic Cough",
+      "nct_id": "NCT07288528",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "ruxolitinib",
+      "investigational": "acute myeloid leukemia",
+      "nct_id": "NCT06128070",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "sirolimus",
+      "investigational": "breast cancer",
+      "nct_id": "NCT06957379",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "topiramate",
+      "investigational": "Breastfed Infants of Mothers on Select DOI",
+      "nct_id": "NCT03511118",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "doxycycline",
+      "investigational": "Sexually Transmitted Infection",
+      "nct_id": "NCT07658976",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "thalidomide",
+      "investigational": "DS Stage I Multiple Myeloma",
+      "nct_id": "NCT00098475",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "metformin",
+      "investigational": "Insulin Resistance",
+      "nct_id": "NCT02647827",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "colchicine",
+      "investigational": "Advanced Cancer",
+      "nct_id": "NCT06813079",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "hydroxychloroquine",
+      "investigational": "Erythematotelangiectatic Rosacea",
+      "nct_id": "NCT07343635",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "amitriptyline",
+      "investigational": "Thermal Burn",
+      "nct_id": "NCT07640061",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "gabapentin",
+      "investigational": "Pain, Postoperative",
+      "nct_id": "NCT07047040",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "gabapentin",
+      "investigational": "HIV",
+      "nct_id": "NCT05443555",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "thalidomide",
+      "investigational": "T-cell large granular lymphocyte leukemia",
+      "nct_id": "NCT06530576",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "bevacizumab",
+      "investigational": "Chronic Subdural Hematoma",
+      "nct_id": "NCT06510582",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "naltrexone",
+      "investigational": "Overdose Accidental",
+      "nct_id": "NCT06633900",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "naltrexone",
+      "investigational": "Methamphetamine-dependence",
+      "nct_id": "NCT06233799",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "ruxolitinib",
+      "investigational": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "nct_id": "NCT06128070",
+      "reason": "same broad cancer-family indication"
+    },
+    {
+      "drug": "bupropion",
+      "investigational": "Neuroticism",
+      "nct_id": "NCT05273996",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "gabapentin",
+      "investigational": "Osteoarthritis, Knee",
+      "nct_id": "NCT07047040",
+      "reason": "full DailyMed label audit incomplete for this drug; fail-closed until every listed SPL is retrievable"
+    },
+    {
+      "drug": "aspirin",
+      "investigational": "Ischemic Stroke",
+      "nct_id": "NCT06486792",
+      "reason": "already covered by a full DailyMed label audit: DailyMed setid 41386de5-5857-efab-e063-6294a90afd9c https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41386de5-5857-efab-e063-6294a90afd9c"
+    },
+    {
+      "drug": "raloxifene",
+      "investigational": "Lower Urinary Track Symptoms",
+      "nct_id": "NCT06944145",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "ketamine",
+      "investigational": "Multiple Sclerosis Fatigue",
+      "nct_id": "NCT05378100",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "spironolactone",
+      "investigational": "Alcohol Use Disorder",
+      "nct_id": "NCT05807139",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "tamoxifen",
+      "investigational": "Early-Stage Breast Carcinoma",
+      "nct_id": "NCT02592083",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "propranolol",
+      "investigational": "Inflammation",
+      "nct_id": "NCT06422494",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "letrozole",
+      "investigational": "Adjuvant Therapy",
+      "nct_id": "NCT07101159",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "mifepristone",
+      "investigational": "Silent Miscarriage",
+      "nct_id": "NCT06733727",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "minoxidil",
+      "investigational": "Androgenic Alopecia",
+      "nct_id": "NCT07563036",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "raloxifene",
+      "investigational": "BPH (Benign Prostatic Hyperplasia)",
+      "nct_id": "NCT06944145",
+      "reason": "research condition is not an in-scope mapped life-stage/aging MeSH concept"
+    },
+    {
+      "drug": "topiramate",
+      "investigational": "Lactating Women on Select DOI",
+      "nct_id": "NCT03511118",
+      "reason": "procedural, outcome, symptom, stage, or overly broad condition label"
+    },
+    {
+      "drug": "rituximab",
+      "investigational": "Burkitt Lymphoma",
+      "nct_id": "NCT05270057",
+      "reason": "duplicate condition within the same drug/NCT trial; kept more specific condition"
+    },
+    {
+      "drug": "empagliflozin",
+      "investigational": "congenital heart disease",
+      "nct_id": "NCT06955260",
+      "reason": "below conservative final-score threshold (42 < 44)"
+    },
+    {
+      "drug": "hydroxychloroquine",
+      "investigational": "breast cancer",
+      "nct_id": "NCT03032406",
+      "reason": "below conservative final-score threshold (40 < 44)"
+    },
+    {
+      "drug": "metformin",
+      "investigational": "Polycystic Ovary Syndrome",
+      "nct_id": "NCT02647827",
+      "reason": "below conservative final-score threshold (40 < 44)"
+    },
+    {
+      "drug": "amitriptyline",
+      "investigational": "Inflammatory Bowel Diseases",
+      "nct_id": "NCT06261320",
+      "reason": "below conservative final-score threshold (36 < 44)"
+    },
+    {
+      "drug": "ruxolitinib",
+      "investigational": "Hidradenitis Suppurativa",
+      "nct_id": "NCT07049575",
+      "reason": "below conservative final-score threshold (34 < 44)"
+    },
+    {
+      "drug": "losartan",
+      "investigational": "frozen shoulder",
+      "nct_id": "NCT07513350",
+      "reason": "below conservative final-score threshold (32 < 44)"
+    },
+    {
+      "drug": "rituximab",
+      "investigational": "B-cell non-Hodgkin lymphoma",
+      "nct_id": "NCT05270057",
+      "reason": "below conservative final-score threshold (30 < 44)"
+    },
+    {
+      "drug": "aspirin",
+      "investigational": "Myocardial Ischemia",
+      "nct_id": "NCT05320926",
+      "reason": "below conservative final-score threshold (28 < 44)"
+    },
+    {
+      "drug": "misoprostol",
+      "investigational": "fetal growth restriction",
+      "nct_id": "NCT05674487",
+      "reason": "below conservative final-score threshold (28 < 44)"
+    },
+    {
+      "drug": "propranolol",
+      "investigational": "Diabetes Mellitus, Type 1",
+      "nct_id": "NCT06422494",
+      "reason": "below conservative final-score threshold (28 < 44)"
+    },
+    {
+      "drug": "sildenafil",
+      "investigational": "Urinary Incontinence",
+      "nct_id": "NCT02983461",
+      "reason": "below conservative final-score threshold (26 < 44)"
+    },
+    {
+      "drug": "misoprostol",
+      "investigational": "Postpartum Hemorrhage",
+      "nct_id": "NCT07353281",
+      "reason": "below conservative final-score threshold (24 < 44)"
+    }
+  ]
+}

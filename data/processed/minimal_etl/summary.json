@@ -1,0 +1,751 @@
+{
+  "condition_nodes_by_category": {
+    "disease": 100,
+    "research_condition": 61
+  },
+  "disease_search_default_count": 100,
+  "drugs": [
+    {
+      "drug": "metformin",
+      "drug_id": "drug:rxnorm:6809",
+      "orange_book_product": {
+        "Appl_No": "211309",
+        "Appl_Type": "A",
+        "Applicant": "SAPTALIS PHARMS",
+        "Applicant_Full_Name": "SAPTALIS PHARMACEUTICALS LLC",
+        "Approval_Date": "Mar 3, 2020",
+        "DF;Route": "SOLUTION;ORAL",
+        "Ingredient": "METFORMIN HYDROCHLORIDE",
+        "Product_No": "001",
+        "RLD": "No",
+        "RS": "Yes",
+        "Strength": "500MG/5ML",
+        "TE_Code": "AB",
+        "Trade_Name": "METFORMIN HYDROCHLORIDE",
+        "Type": "RX"
+      },
+      "rxcui": "6809"
+    },
+    {
+      "drug": "sirolimus",
+      "drug_id": "drug:rxnorm:35302",
+      "orange_book_product": {
+        "Appl_No": "213478",
+        "Appl_Type": "N",
+        "Applicant": "NOBELPHARMA",
+        "Applicant_Full_Name": "NOBELPHARMA CO LTD",
+        "Approval_Date": "Mar 22, 2022",
+        "DF;Route": "GEL;TOPICAL",
+        "Ingredient": "SIROLIMUS",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "0.2%",
+        "TE_Code": "",
+        "Trade_Name": "HYFTOR",
+        "Type": "RX"
+      },
+      "rxcui": "35302"
+    },
+    {
+      "drug": "thalidomide",
+      "drug_id": "drug:rxnorm:10432",
+      "orange_book_product": {
+        "Appl_No": "020785",
+        "Appl_Type": "N",
+        "Applicant": "BRISTOL-MYERS",
+        "Applicant_Full_Name": "BRISTOL-MYERS SQUIBB CO",
+        "Approval_Date": "Jul 16, 1998",
+        "DF;Route": "CAPSULE;ORAL",
+        "Ingredient": "THALIDOMIDE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "50MG",
+        "TE_Code": "AB",
+        "Trade_Name": "THALOMID",
+        "Type": "RX"
+      },
+      "rxcui": "10432"
+    },
+    {
+      "drug": "minoxidil",
+      "drug_id": "drug:rxnorm:6984",
+      "orange_book_product": {
+        "Appl_No": "021812",
+        "Appl_Type": "N",
+        "Applicant": "KENVUE BRANDS",
+        "Applicant_Full_Name": "KENVUE BRANDS LLC",
+        "Approval_Date": "Jan 20, 2006",
+        "DF;Route": "AEROSOL, FOAM;TOPICAL",
+        "Ingredient": "MINOXIDIL",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "5%",
+        "TE_Code": "",
+        "Trade_Name": "MEN'S ROGAINE",
+        "Type": "OTC"
+      },
+      "rxcui": "6984"
+    },
+    {
+      "drug": "sildenafil",
+      "drug_id": "drug:rxnorm:136411",
+      "orange_book_product": {
+        "Appl_No": "210858",
+        "Appl_Type": "N",
+        "Applicant": "IBSA",
+        "Applicant_Full_Name": "IBSA INSTITUT BIOCHIMIQUE SA",
+        "Approval_Date": "Dec 16, 2025",
+        "DF;Route": "FILM;ORAL",
+        "Ingredient": "SILDENAFIL CITRATE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "EQ 25MG BASE",
+        "TE_Code": "",
+        "Trade_Name": "VYBRIQUE",
+        "Type": "RX"
+      },
+      "rxcui": "136411"
+    },
+    {
+      "drug": "aspirin",
+      "drug_id": "drug:rxnorm:1191",
+      "orange_book_product": {
+        "Appl_No": "203697",
+        "Appl_Type": "N",
+        "Applicant": "PLX PHARMA",
+        "Applicant_Full_Name": "PLX PHARMA INC",
+        "Approval_Date": "Feb 26, 2021",
+        "DF;Route": "CAPSULE;ORAL",
+        "Ingredient": "ASPIRIN",
+        "Product_No": "002",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "81MG",
+        "TE_Code": "",
+        "Trade_Name": "VAZALORE",
+        "Type": "OTC"
+      },
+      "rxcui": "1191"
+    },
+    {
+      "drug": "methotrexate",
+      "drug_id": "drug:rxnorm:6851",
+      "orange_book_product": {
+        "Appl_No": "011719",
+        "Appl_Type": "N",
+        "Applicant": "HOSPIRA",
+        "Applicant_Full_Name": "HOSPIRA INC",
+        "Approval_Date": "Dec 15, 2004",
+        "DF;Route": "INJECTABLE;INJECTION",
+        "Ingredient": "METHOTREXATE SODIUM",
+        "Product_No": "010",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "EQ 50MG BASE/2ML (EQ 25MG BASE/ML)",
+        "TE_Code": "AP",
+        "Trade_Name": "METHOTREXATE SODIUM",
+        "Type": "RX"
+      },
+      "rxcui": "6851"
+    },
+    {
+      "drug": "propranolol",
+      "drug_id": "drug:rxnorm:8787",
+      "orange_book_product": {
+        "Appl_No": "018553",
+        "Appl_Type": "N",
+        "Applicant": "ANI PHARMS",
+        "Applicant_Full_Name": "ANI PHARMACEUTICALS INC",
+        "Approval_Date": "Mar 18, 1987",
+        "DF;Route": "CAPSULE, EXTENDED RELEASE;ORAL",
+        "Ingredient": "PROPRANOLOL HYDROCHLORIDE",
+        "Product_No": "004",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "60MG",
+        "TE_Code": "AB",
+        "Trade_Name": "INDERAL LA",
+        "Type": "RX"
+      },
+      "rxcui": "8787"
+    },
+    {
+      "drug": "naltrexone",
+      "drug_id": "drug:rxnorm:7243",
+      "orange_book_product": {
+        "Appl_No": "021897",
+        "Appl_Type": "N",
+        "Applicant": "ALKERMES",
+        "Applicant_Full_Name": "ALKERMES INC",
+        "Approval_Date": "Apr 13, 2006",
+        "DF;Route": "FOR SUSPENSION, EXTENDED RELEASE;INTRAMUSCULAR",
+        "Ingredient": "NALTREXONE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "380MG/VIAL",
+        "TE_Code": "",
+        "Trade_Name": "VIVITROL",
+        "Type": "RX"
+      },
+      "rxcui": "7243"
+    },
+    {
+      "drug": "ketamine",
+      "drug_id": "drug:rxnorm:6130",
+      "orange_book_product": {
+        "Appl_No": "016812",
+        "Appl_Type": "N",
+        "Applicant": "PH HEALTH",
+        "Applicant_Full_Name": "PH HEALTH LTD",
+        "Approval_Date": "Approved Prior to Jan 1, 1982",
+        "DF;Route": "INJECTABLE;INJECTION",
+        "Ingredient": "KETAMINE HYDROCHLORIDE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "EQ 10MG BASE/ML",
+        "TE_Code": "AP",
+        "Trade_Name": "KETALAR",
+        "Type": "RX"
+      },
+      "rxcui": "6130"
+    },
+    {
+      "drug": "colchicine",
+      "drug_id": "drug:rxnorm:2683",
+      "orange_book_product": {
+        "Appl_No": "204820",
+        "Appl_Type": "N",
+        "Applicant": "HIKMA INTL PHARMS",
+        "Applicant_Full_Name": "HIKMA INTERNATIONAL PHARMACEUTICALS LLC",
+        "Approval_Date": "Sep 26, 2014",
+        "DF;Route": "CAPSULE;ORAL",
+        "Ingredient": "COLCHICINE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "0.6MG",
+        "TE_Code": "AB",
+        "Trade_Name": "MITIGARE",
+        "Type": "RX"
+      },
+      "rxcui": "2683"
+    },
+    {
+      "drug": "hydroxychloroquine",
+      "drug_id": "drug:rxnorm:5521",
+      "orange_book_product": {
+        "Appl_No": "009768",
+        "Appl_Type": "N",
+        "Applicant": "ADVANZ PHARMA",
+        "Applicant_Full_Name": "ADVANZ PHARMA (US) CORP",
+        "Approval_Date": "Approved Prior to Jan 1, 1982",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "HYDROXYCHLOROQUINE SULFATE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "200MG",
+        "TE_Code": "AB",
+        "Trade_Name": "PLAQUENIL",
+        "Type": "RX"
+      },
+      "rxcui": "5521"
+    },
+    {
+      "drug": "doxycycline",
+      "drug_id": "drug:rxnorm:3640",
+      "orange_book_product": {
+        "Appl_No": "050641",
+        "Appl_Type": "N",
+        "Applicant": "CHARTWELL RX",
+        "Applicant_Full_Name": "CHARTWELL RX SCIENCES LLC",
+        "Approval_Date": "Feb 10, 1992",
+        "DF;Route": "CAPSULE;ORAL",
+        "Ingredient": "DOXYCYCLINE",
+        "Product_No": "002",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "EQ 50MG BASE",
+        "TE_Code": "AB",
+        "Trade_Name": "MONODOX",
+        "Type": "RX"
+      },
+      "rxcui": "3640"
+    },
+    {
+      "drug": "atorvastatin",
+      "drug_id": "drug:rxnorm:83367",
+      "orange_book_product": {
+        "Appl_No": "213260",
+        "Appl_Type": "N",
+        "Applicant": "CMP DEV LLC",
+        "Applicant_Full_Name": "CMP DEVELOPMENT LLC",
+        "Approval_Date": "Feb 1, 2023",
+        "DF;Route": "SUSPENSION;ORAL",
+        "Ingredient": "ATORVASTATIN CALCIUM",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "20MG/5ML",
+        "TE_Code": "",
+        "Trade_Name": "ATORVALIQ",
+        "Type": "RX"
+      },
+      "rxcui": "83367"
+    },
+    {
+      "drug": "losartan",
+      "drug_id": "drug:rxnorm:52175",
+      "orange_book_product": {
+        "Appl_No": "218772",
+        "Appl_Type": "N",
+        "Applicant": "SCIENTURE",
+        "Applicant_Full_Name": "SCIENTURE LLC",
+        "Approval_Date": "Mar 13, 2025",
+        "DF;Route": "SUSPENSION;ORAL",
+        "Ingredient": "LOSARTAN POTASSIUM",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "10MG/ML",
+        "TE_Code": "",
+        "Trade_Name": "ARBLI",
+        "Type": "RX"
+      },
+      "rxcui": "52175"
+    },
+    {
+      "drug": "spironolactone",
+      "drug_id": "drug:rxnorm:9997",
+      "orange_book_product": {
+        "Appl_No": "209478",
+        "Appl_Type": "N",
+        "Applicant": "CMP DEV LLC",
+        "Applicant_Full_Name": "CMP DEVELOPMENT LLC",
+        "Approval_Date": "Aug 4, 2017",
+        "DF;Route": "SUSPENSION;ORAL",
+        "Ingredient": "SPIRONOLACTONE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "25MG/5ML",
+        "TE_Code": "AB",
+        "Trade_Name": "CAROSPIR",
+        "Type": "RX"
+      },
+      "rxcui": "9997"
+    },
+    {
+      "drug": "finasteride",
+      "drug_id": "drug:rxnorm:25025",
+      "orange_book_product": {
+        "Appl_No": "020788",
+        "Appl_Type": "N",
+        "Applicant": "ORGANON",
+        "Applicant_Full_Name": "ORGANON LLC A SUB OF ORGANON AND CO",
+        "Approval_Date": "Dec 19, 1997",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "FINASTERIDE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "1MG",
+        "TE_Code": "AB",
+        "Trade_Name": "PROPECIA",
+        "Type": "RX"
+      },
+      "rxcui": "25025"
+    },
+    {
+      "drug": "topiramate",
+      "drug_id": "drug:rxnorm:38404",
+      "orange_book_product": {
+        "Appl_No": "205122",
+        "Appl_Type": "N",
+        "Applicant": "UPSHER SMITH LABS",
+        "Applicant_Full_Name": "UPSHER SMITH LABORATORIES LLC",
+        "Approval_Date": "Mar 11, 2014",
+        "DF;Route": "CAPSULE, EXTENDED RELEASE;ORAL",
+        "Ingredient": "TOPIRAMATE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "25MG",
+        "TE_Code": "AB2",
+        "Trade_Name": "QUDEXY XR",
+        "Type": "RX"
+      },
+      "rxcui": "38404"
+    },
+    {
+      "drug": "gabapentin",
+      "drug_id": "drug:rxnorm:25480",
+      "orange_book_product": {
+        "Appl_No": "020235",
+        "Appl_Type": "N",
+        "Applicant": "VIATRIS",
+        "Applicant_Full_Name": "VIATRIS SPECIALTY LLC",
+        "Approval_Date": "Dec 30, 1993",
+        "DF;Route": "CAPSULE;ORAL",
+        "Ingredient": "GABAPENTIN",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "100MG",
+        "TE_Code": "AB",
+        "Trade_Name": "NEURONTIN",
+        "Type": "RX"
+      },
+      "rxcui": "25480"
+    },
+    {
+      "drug": "pregabalin",
+      "drug_id": "drug:rxnorm:187832",
+      "orange_book_product": {
+        "Appl_No": "021446",
+        "Appl_Type": "N",
+        "Applicant": "UPJOHN",
+        "Applicant_Full_Name": "UPJOHN US 2 LLC",
+        "Approval_Date": "Dec 30, 2004",
+        "DF;Route": "CAPSULE;ORAL",
+        "Ingredient": "PREGABALIN",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "25MG",
+        "TE_Code": "AB",
+        "Trade_Name": "LYRICA",
+        "Type": "RX"
+      },
+      "rxcui": "187832"
+    },
+    {
+      "drug": "amitriptyline",
+      "drug_id": "drug:rxnorm:704",
+      "orange_book_product": {
+        "Appl_No": "085968",
+        "Appl_Type": "A",
+        "Applicant": "SANDOZ",
+        "Applicant_Full_Name": "SANDOZ INC",
+        "Approval_Date": "Approved Prior to Jan 1, 1982",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "AMITRIPTYLINE HYDROCHLORIDE",
+        "Product_No": "004",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "10MG",
+        "TE_Code": "AB",
+        "Trade_Name": "AMITRIPTYLINE HYDROCHLORIDE",
+        "Type": "RX"
+      },
+      "rxcui": "704"
+    },
+    {
+      "drug": "bupropion",
+      "drug_id": "drug:rxnorm:42347",
+      "orange_book_product": {
+        "Appl_No": "022108",
+        "Appl_Type": "N",
+        "Applicant": "BAUSCH",
+        "Applicant_Full_Name": "BAUSCH HEALTH US LLC",
+        "Approval_Date": "Apr 23, 2008",
+        "DF;Route": "TABLET, EXTENDED RELEASE;ORAL",
+        "Ingredient": "BUPROPION HYDROBROMIDE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "174MG",
+        "TE_Code": "",
+        "Trade_Name": "APLENZIN",
+        "Type": "RX"
+      },
+      "rxcui": "42347"
+    },
+    {
+      "drug": "mifepristone",
+      "drug_id": "drug:rxnorm:6964",
+      "orange_book_product": {
+        "Appl_No": "202107",
+        "Appl_Type": "N",
+        "Applicant": "CORCEPT THERAP",
+        "Applicant_Full_Name": "CORCEPT THERAPEUTICS INC",
+        "Approval_Date": "Feb 17, 2012",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "MIFEPRISTONE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "300MG",
+        "TE_Code": "AB",
+        "Trade_Name": "KORLYM",
+        "Type": "RX"
+      },
+      "rxcui": "6964"
+    },
+    {
+      "drug": "misoprostol",
+      "drug_id": "drug:rxnorm:42331",
+      "orange_book_product": {
+        "Appl_No": "019268",
+        "Appl_Type": "N",
+        "Applicant": "PFIZER",
+        "Applicant_Full_Name": "PFIZER INC",
+        "Approval_Date": "Sep 21, 1990",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "MISOPROSTOL",
+        "Product_No": "003",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "0.1MG",
+        "TE_Code": "AB",
+        "Trade_Name": "CYTOTEC",
+        "Type": "RX"
+      },
+      "rxcui": "42331"
+    },
+    {
+      "drug": "tamoxifen",
+      "drug_id": "drug:rxnorm:10324",
+      "orange_book_product": {
+        "Appl_No": "021807",
+        "Appl_Type": "N",
+        "Applicant": "MAYNE PHARMA COMMRCL",
+        "Applicant_Full_Name": "MAYNE PHARMA COMMERCIAL LLC",
+        "Approval_Date": "Oct 29, 2005",
+        "DF;Route": "SOLUTION;ORAL",
+        "Ingredient": "TAMOXIFEN CITRATE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "EQ 20MG BASE/10ML",
+        "TE_Code": "",
+        "Trade_Name": "SOLTAMOX",
+        "Type": "RX"
+      },
+      "rxcui": "10324"
+    },
+    {
+      "drug": "raloxifene",
+      "drug_id": "drug:rxnorm:72143",
+      "orange_book_product": {
+        "Appl_No": "020815",
+        "Appl_Type": "N",
+        "Applicant": "LILLY",
+        "Applicant_Full_Name": "ELI LILLY AND CO",
+        "Approval_Date": "Dec 9, 1997",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "RALOXIFENE HYDROCHLORIDE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "60MG",
+        "TE_Code": "AB",
+        "Trade_Name": "EVISTA",
+        "Type": "RX"
+      },
+      "rxcui": "72143"
+    },
+    {
+      "drug": "anastrozole",
+      "drug_id": "drug:rxnorm:84857",
+      "orange_book_product": {
+        "Appl_No": "020541",
+        "Appl_Type": "N",
+        "Applicant": "ANI PHARMS",
+        "Applicant_Full_Name": "ANI PHARMACEUTICALS INC",
+        "Approval_Date": "Dec 27, 1995",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "ANASTROZOLE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "1MG",
+        "TE_Code": "AB",
+        "Trade_Name": "ARIMIDEX",
+        "Type": "RX"
+      },
+      "rxcui": "84857"
+    },
+    {
+      "drug": "letrozole",
+      "drug_id": "drug:rxnorm:72965",
+      "orange_book_product": {
+        "Appl_No": "020726",
+        "Appl_Type": "N",
+        "Applicant": "NOVARTIS PHARMS",
+        "Applicant_Full_Name": "NOVARTIS PHARMACEUTICALS CORP",
+        "Approval_Date": "Jul 25, 1997",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "LETROZOLE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "2.5MG",
+        "TE_Code": "AB",
+        "Trade_Name": "FEMARA",
+        "Type": "RX"
+      },
+      "rxcui": "72965"
+    },
+    {
+      "drug": "imatinib",
+      "drug_id": "drug:rxnorm:282388",
+      "orange_book_product": {
+        "Appl_No": "219097",
+        "Appl_Type": "N",
+        "Applicant": "SHORLA ONCOLOGY",
+        "Applicant_Full_Name": "SHORLA ONCOLOGY",
+        "Approval_Date": "Nov 22, 2024",
+        "DF;Route": "SOLUTION;ORAL",
+        "Ingredient": "IMATINIB MESYLATE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "EQ 80MG BASE/ML",
+        "TE_Code": "",
+        "Trade_Name": "IMKELDI",
+        "Type": "RX"
+      },
+      "rxcui": "282388"
+    },
+    {
+      "drug": "rituximab",
+      "drug_id": "drug:rxnorm:121191",
+      "orange_book_product": null,
+      "rxcui": "121191"
+    },
+    {
+      "drug": "bevacizumab",
+      "drug_id": "drug:rxnorm:253337",
+      "orange_book_product": null,
+      "rxcui": "253337"
+    },
+    {
+      "drug": "tocilizumab",
+      "drug_id": "drug:rxnorm:612865",
+      "orange_book_product": null,
+      "rxcui": "612865"
+    },
+    {
+      "drug": "baricitinib",
+      "drug_id": "drug:rxnorm:2047232",
+      "orange_book_product": {
+        "Appl_No": "207924",
+        "Appl_Type": "N",
+        "Applicant": "ELI LILLY AND CO",
+        "Applicant_Full_Name": "ELI LILLY AND CO",
+        "Approval_Date": "Oct 8, 2019",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "BARICITINIB",
+        "Product_No": "002",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "1MG",
+        "TE_Code": "AB",
+        "Trade_Name": "OLUMIANT",
+        "Type": "RX"
+      },
+      "rxcui": "2047232"
+    },
+    {
+      "drug": "ruxolitinib",
+      "drug_id": "drug:rxnorm:1193326",
+      "orange_book_product": {
+        "Appl_No": "215309",
+        "Appl_Type": "N",
+        "Applicant": "INCYTE CORP",
+        "Applicant_Full_Name": "INCYTE CORP",
+        "Approval_Date": "Sep 21, 2021",
+        "DF;Route": "CREAM;TOPICAL",
+        "Ingredient": "RUXOLITINIB PHOSPHATE",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "EQ 1.5% BASE",
+        "TE_Code": "",
+        "Trade_Name": "OPZELURA",
+        "Type": "RX"
+      },
+      "rxcui": "1193326"
+    },
+    {
+      "drug": "semaglutide",
+      "drug_id": "drug:rxnorm:1991302",
+      "orange_book_product": {
+        "Appl_No": "209637",
+        "Appl_Type": "N",
+        "Applicant": "NOVO",
+        "Applicant_Full_Name": "NOVO NORDISK INC",
+        "Approval_Date": "May 5, 2026",
+        "DF;Route": "SOLUTION;SUBCUTANEOUS",
+        "Ingredient": "SEMAGLUTIDE",
+        "Product_No": "005",
+        "RLD": "Yes",
+        "RS": "Yes",
+        "Strength": "0.25MG/0.5ML (0.25MG/0.5ML)",
+        "TE_Code": "",
+        "Trade_Name": "OZEMPIC",
+        "Type": "RX"
+      },
+      "rxcui": "1991302"
+    },
+    {
+      "drug": "empagliflozin",
+      "drug_id": "drug:rxnorm:1545653",
+      "orange_book_product": {
+        "Appl_No": "204629",
+        "Appl_Type": "N",
+        "Applicant": "BOEHRINGER INGELHEIM",
+        "Applicant_Full_Name": "BOEHRINGER INGELHEIM PHARMACEUTICALS INC",
+        "Approval_Date": "Aug 1, 2014",
+        "DF;Route": "TABLET;ORAL",
+        "Ingredient": "EMPAGLIFLOZIN",
+        "Product_No": "001",
+        "RLD": "Yes",
+        "RS": "No",
+        "Strength": "10MG",
+        "TE_Code": "",
+        "Trade_Name": "JARDIANCE",
+        "Type": "RX"
+      },
+      "rxcui": "1545653"
+    }
+  ],
+  "edge_count": 410,
+  "edges_by_source": {
+    "ClinicalTrials.gov": 104,
+    "DailyMed + FDA Orange Book": 83,
+    "Open Targets Platform": 123,
+    "RxClass": 100
+  },
+  "edges_by_type": {
+    "approved_for": 83,
+    "associated_with": 17,
+    "in_class_of": 147,
+    "investigational_for": 104,
+    "targets": 59
+  },
+  "excluded_from_disease_search_count": 61,
+  "node_count": 380,
+  "nodes_by_kind": {
+    "disease": 107,
+    "drug": 36,
+    "mechanism": 129,
+    "research_condition": 54,
+    "target": 54
+  },
+  "outputs": {
+    "disease_search_nodes_json": "data\\processed\\minimal_etl\\disease_search_nodes.json",
+    "edges_json": "data\\processed\\minimal_etl\\edges.json",
+    "edges_jsonl": "data\\processed\\minimal_etl\\edges.jsonl",
+    "nodes_json": "data\\processed\\minimal_etl\\nodes.json",
+    "nodes_jsonl": "data\\processed\\minimal_etl\\nodes.jsonl"
+  },
+  "pathfinding_default_node_count": 100
+}

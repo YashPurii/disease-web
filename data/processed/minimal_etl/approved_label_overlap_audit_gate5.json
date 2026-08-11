@@ -1,0 +1,91 @@
+{
+  "scope": "All DailyMed SPL records returned by drug_name across every API page; only indication/purpose sections were searched.",
+  "checks": [
+    {
+      "drug": "atorvastatin",
+      "investigational_use": "Chronic Periodontitis",
+      "nct_id": "NCT07634341",
+      "label_records_scanned": 402,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "baricitinib",
+      "investigational_use": "traumatic brain injury",
+      "nct_id": "NCT06065046",
+      "label_records_scanned": 2,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "colchicine",
+      "investigational_use": "pancreatic ductal adenocarcinoma",
+      "nct_id": "NCT06813079",
+      "label_records_scanned": 63,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "doxycycline",
+      "investigational_use": "HIV infectious disease",
+      "nct_id": "NCT07658976",
+      "label_records_scanned": 384,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "losartan",
+      "investigational_use": "Coronary Artery Disease",
+      "nct_id": "NCT03417388",
+      "label_records_scanned": 309,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "metformin",
+      "investigational_use": "Endometriosis",
+      "nct_id": "NCT06611501",
+      "label_records_scanned": 545,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "pregabalin",
+      "investigational_use": "Cough",
+      "nct_id": "NCT07288528",
+      "label_records_scanned": 283,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "sirolimus",
+      "investigational_use": "Aging",
+      "nct_id": "NCT06658093",
+      "label_records_scanned": 28,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    {
+      "drug": "topiramate",
+      "investigational_use": "Tinnitus",
+      "nct_id": "NCT06799169",
+      "label_records_scanned": 236,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    }
+  ],
+  "summary": {
+    "signals_checked": 9,
+    "overlaps_found": 0,
+    "fetch_failure_checks": 0
+  }
+}

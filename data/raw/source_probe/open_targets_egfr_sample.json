@@ -1,0 +1,34 @@
+{
+  "data": {
+    "target": {
+      "approvedName": "epidermal growth factor receptor",
+      "approvedSymbol": "EGFR",
+      "associatedDiseases": {
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0005233",
+              "name": "non-small cell lung carcinoma"
+            },
+            "score": 0.8525670184292347
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005061",
+              "name": "lung adenocarcinoma"
+            },
+            "score": 0.7744435748658476
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            },
+            "score": 0.7369034999647346
+          }
+        ]
+      },
+      "id": "ENSG00000146648"
+    }
+  }
+}

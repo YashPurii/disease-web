@@ -1,0 +1,997 @@
+{
+  "nextPageToken": "ZVNj7o2Elu8o3lp0RcOnp-numpOQJJxuZfWl3vg",
+  "studies": [
+    {
+      "derivedSection": {
+        "conditionBrowseModule": {
+          "ancestors": [
+            {
+              "id": "D004067",
+              "term": "Digestive System Neoplasms"
+            },
+            {
+              "id": "D009371",
+              "term": "Neoplasms by Site"
+            },
+            {
+              "id": "D009369",
+              "term": "Neoplasms"
+            },
+            {
+              "id": "D004701",
+              "term": "Endocrine Gland Neoplasms"
+            },
+            {
+              "id": "D004066",
+              "term": "Digestive System Diseases"
+            },
+            {
+              "id": "D010182",
+              "term": "Pancreatic Diseases"
+            },
+            {
+              "id": "D004700",
+              "term": "Endocrine System Diseases"
+            }
+          ],
+          "meshes": [
+            {
+              "id": "D010190",
+              "term": "Pancreatic Neoplasms"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "ancestors": [
+            {
+              "id": "D001645",
+              "term": "Biguanides"
+            },
+            {
+              "id": "D006146",
+              "term": "Guanidines"
+            },
+            {
+              "id": "D000578",
+              "term": "Amidines"
+            },
+            {
+              "id": "D009930",
+              "term": "Organic Chemicals"
+            }
+          ],
+          "meshes": [
+            {
+              "id": "D008687",
+              "term": "Metformin"
+            }
+          ]
+        },
+        "miscInfoModule": {
+          "removedCountries": [
+            "United States"
+          ],
+          "versionHolder": "2026-06-29"
+        }
+      },
+      "hasResults": false,
+      "protocolSection": {
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "description": "Patients undergo observation.",
+              "label": "Group I (observation)",
+              "type": "NO_INTERVENTION"
+            },
+            {
+              "description": "Patients receive metformin hydrochloride PO BID for at least 7 days in the absence of disease progression or unacceptable toxicity.",
+              "interventionNames": [
+                "Drug: metformin hydrochloride",
+                "Other: pharmacological study"
+              ],
+              "label": "Group II (metformin hydrochloride)",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "Patients receive metformin hydrochloride as in Group II.",
+              "interventionNames": [
+                "Drug: metformin hydrochloride",
+                "Other: pharmacological study"
+              ],
+              "label": "Group III (metformin hydrochloride)",
+              "type": "EXPERIMENTAL"
+            }
+          ],
+          "interventions": [
+            {
+              "armGroupLabels": [
+                "Group II (metformin hydrochloride)",
+                "Group III (metformin hydrochloride)"
+              ],
+              "description": "Given PO",
+              "name": "metformin hydrochloride",
+              "otherNames": [
+                "Glucophage"
+              ],
+              "type": "DRUG"
+            },
+            {
+              "armGroupLabels": [
+                "Group II (metformin hydrochloride)",
+                "Group III (metformin hydrochloride)"
+              ],
+              "description": "Correlative studies",
+              "name": "pharmacological study",
+              "otherNames": [
+                "pharmacological studies"
+              ],
+              "type": "OTHER"
+            }
+          ]
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Stage IA Pancreatic Cancer",
+            "Stage IB Pancreatic Cancer",
+            "Stage IIA Pancreatic Cancer",
+            "Stage IIB Pancreatic Cancer"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "affiliation": "Case Comprehensive Cancer Center",
+              "name": "Jennifer Eads, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ]
+        },
+        "descriptionModule": {
+          "briefSummary": "This randomized clinical trial studies metformin hydrochloride in treating patients with pancreatic cancer that can be removed by surgery. Metformin hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+          "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. To determine the effect of escalating doses of metformin (metformin hydrochloride) given pre-operatively on pancreatic cancer cell proliferation and apoptosis.\n\nSECONDARY OBJECTIVES:\n\nI. To assess toxicity of escalating doses of metformin given pre-operatively in patients with resectable pancreatic carcinoma.\n\nII. To measure the effect of metformin on the expression of phosphorylated acetyl-CoA carboxylase alpha (ACC), phosphorylated mechanistic target of rapamycin (serine/threonine kinase) (mTOR), and pancreatic cancer stem cells.\n\nOUTLINE: Patients are randomized to 1 of 3 treatment groups.\n\nGROUP I: Patients undergo observation.\n\nGROUP II: Patients receive metformin hydrochloride orally (PO) twice daily (BID) for at least 7 days in the absence of disease progression or unacceptable toxicity.\n\nGROUP III: Patients receive metformin hydrochloride as in Group II.\n\nAfter completion of study treatment, patients are followed up 30 days."
+        },
+        "designModule": {
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "maskingInfo": {
+              "masking": "NONE"
+            },
+            "primaryPurpose": "TREATMENT"
+          },
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          },
+          "phases": [
+            "PHASE1"
+          ],
+          "studyType": "INTERVENTIONAL"
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed resectable pancreatic carcinoma; patients with pancreatic neuroendocrine tumors are not eligible\n* Patients must be previously untreated with chemotherapy or radiation therapy\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2\n* Patients must have surgical resection of the pancreas planned, with enrollment at least 7 days prior to surgery; patients with surgery scheduled \\> 15 days will not be excluded\n* Hemoglobin (Hg)A1C must be below 7%\n* Total bilirubin less than 1.5 X institutional upper limit of normal\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\]) =\\< 2.5 X institutional upper limit of normal\n* Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 X institutional upper limit of normal\n* Serum creatinine within normal institutional limits\n* Alkaline phosphatase \\< 1.5 X institutional upper limit of normal\n* Subjects must have the ability to understand and be willing to provide written informed consent\n\nExclusion Criteria:\n\n* History of metformin use in the previous 3 months\n* Treatment with neoadjuvant chemotherapy or radiation therapy\n* History of allergic reactions attributed to metformin\n* Patients with uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Metabolic acidosis, acute or chronic, including ketoacidosis\n* Metastatic disease",
+          "healthyVolunteers": false,
+          "minimumAge": "18 Years",
+          "sex": "ALL",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "identificationModule": {
+          "briefTitle": "Metformin Hydrochloride in Treating Patients With Pancreatic Cancer That Can be Removed by Surgery",
+          "nctId": "NCT01954732",
+          "officialTitle": "A Pharmacodynamic Study of Metformin in Patients With Resectable Pancreatic Cancer",
+          "orgStudyIdInfo": {
+            "id": "CASE1213"
+          },
+          "organization": {
+            "class": "OTHER",
+            "fullName": "Case Comprehensive Cancer Center"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "CTRP (Clinical Trial Reporting Program)",
+              "id": "NCI-2013-01836",
+              "type": "REGISTRY"
+            },
+            {
+              "domain": "Case Comprehensive Cancer Center",
+              "id": "CASE 1213",
+              "type": "OTHER"
+            },
+            {
+              "id": "P30CA043703",
+              "link": "https://reporter.nih.gov/quickSearch/P30CA043703",
+              "type": "NIH"
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "description": "The difference between treatment groups will be compared using analysis of variance (ANOVA) (3 groups) followed by Tukey's pair-wise comparison procedure. Transformation may be applied (e.g. natural log) prior to analysis to better approximate normality.",
+              "measure": "Pancreatic tumor cell proliferation and apoptosis as measured by the percentage of cells Ki-67+, percentage of cells TUNEL+, and mitotic counts in tissue samples",
+              "timeFrame": "At time of surgery (after 7 days of treatment)"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "description": "Will be summarized as the percentage of patients by type and grade according to treatment group.",
+              "measure": "Occurrence of grade 3 and 4 toxicities according to National Cancer Institute Common Toxicity Criteria for Adverse Events (NCI CTCAE; version 4.0)",
+              "timeFrame": "Baseline to 30 days after treatment has been discontinued or after the date of surgery, whichever occurs first"
+            },
+            {
+              "description": "The difference between treatment groups will be compared using ANOVA followed by Tukey's pair-wise comparison procedure. Laser scanning cytometry and iCyte software used to quantify the MFI of pACC and pMTOR.",
+              "measure": "Expression of pACC and pMTOR quantified by the mean fluorescence intensity (MFI) in tissue samples",
+              "timeFrame": "At time of surgery (after 7 days of treatment)"
+            },
+            {
+              "description": "For each of biologic biomarkers (pACC, pMTOR, CD44+CD24+ESA+ cells), the difference between treatment groups will be compared using ANOVA (3 groups) followed by Tukey's pair-wise comparison procedure. Transformation may be applied (e.g. natural log) prior to analysis to better approximate normality.",
+              "measure": "Percentage of pancreatic cancer stem cells in tissue samples",
+              "timeFrame": "At time of surgery (after 7 days of treatment)"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true
+        },
+        "sponsorCollaboratorsModule": {
+          "collaborators": [
+            {
+              "class": "NIH",
+              "name": "National Cancer Institute (NCI)"
+            }
+          ],
+          "leadSponsor": {
+            "class": "OTHER",
+            "name": "Case Comprehensive Cancer Center"
+          },
+          "responsibleParty": {
+            "type": "SPONSOR"
+          }
+        },
+        "statusModule": {
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          },
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2015-07-15",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2015-07-14",
+          "overallStatus": "WITHDRAWN",
+          "primaryCompletionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          },
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "statusVerifiedDate": "2015-07",
+          "studyFirstPostDateStruct": {
+            "date": "2013-10-07",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2013-09-27",
+          "studyFirstSubmitQcDate": "2013-09-27",
+          "whyStopped": "Slow accrual"
+        }
+      }
+    },
+    {
+      "derivedSection": {
+        "conditionBrowseModule": {
+          "ancestors": [
+            {
+              "id": "D004701",
+              "term": "Endocrine Gland Neoplasms"
+            },
+            {
+              "id": "D009371",
+              "term": "Neoplasms by Site"
+            },
+            {
+              "id": "D009369",
+              "term": "Neoplasms"
+            },
+            {
+              "id": "D010049",
+              "term": "Ovarian Diseases"
+            },
+            {
+              "id": "D000291",
+              "term": "Adnexal Diseases"
+            },
+            {
+              "id": "D005831",
+              "term": "Genital Diseases, Female"
+            },
+            {
+              "id": "D052776",
+              "term": "Female Urogenital Diseases"
+            },
+            {
+              "id": "D005261",
+              "term": "Female Urogenital Diseases and Pregnancy Complications"
+            },
+            {
+              "id": "D000091642",
+              "term": "Urogenital Diseases"
+            },
+            {
+              "id": "D005833",
+              "term": "Genital Neoplasms, Female"
+            },
+            {
+              "id": "D014565",
+              "term": "Urogenital Neoplasms"
+            },
+            {
+              "id": "D000091662",
+              "term": "Genital Diseases"
+            },
+            {
+              "id": "D004700",
+              "term": "Endocrine System Diseases"
+            },
+            {
+              "id": "D006058",
+              "term": "Gonadal Disorders"
+            }
+          ],
+          "meshes": [
+            {
+              "id": "D010051",
+              "term": "Ovarian Neoplasms"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "ancestors": [
+            {
+              "id": "D001645",
+              "term": "Biguanides"
+            },
+            {
+              "id": "D006146",
+              "term": "Guanidines"
+            },
+            {
+              "id": "D000578",
+              "term": "Amidines"
+            },
+            {
+              "id": "D009930",
+              "term": "Organic Chemicals"
+            },
+            {
+              "id": "D012459",
+              "term": "Salicylates"
+            },
+            {
+              "id": "D062385",
+              "term": "Hydroxybenzoates"
+            },
+            {
+              "id": "D010636",
+              "term": "Phenols"
+            },
+            {
+              "id": "D001555",
+              "term": "Benzene Derivatives"
+            },
+            {
+              "id": "D006841",
+              "term": "Hydrocarbons, Aromatic"
+            },
+            {
+              "id": "D006844",
+              "term": "Hydrocarbons, Cyclic"
+            },
+            {
+              "id": "D006838",
+              "term": "Hydrocarbons"
+            },
+            {
+              "id": "D009570",
+              "term": "Nitriles"
+            },
+            {
+              "id": "D014230",
+              "term": "Triazoles"
+            },
+            {
+              "id": "D001393",
+              "term": "Azoles"
+            },
+            {
+              "id": "D006573",
+              "term": "Heterocyclic Compounds, 1-Ring"
+            },
+            {
+              "id": "D006571",
+              "term": "Heterocyclic Compounds"
+            }
+          ],
+          "meshes": [
+            {
+              "id": "D008687",
+              "term": "Metformin"
+            },
+            {
+              "id": "D001241",
+              "term": "Aspirin"
+            },
+            {
+              "id": "C531550",
+              "term": "olaparib"
+            },
+            {
+              "id": "D000077289",
+              "term": "Letrozole"
+            }
+          ]
+        },
+        "miscInfoModule": {
+          "versionHolder": "2026-06-29"
+        }
+      },
+      "hasResults": false,
+      "protocolSection": {
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Feasibility study cohort",
+              "type": "NO_INTERVENTION"
+            },
+            {
+              "description": "850 mg",
+              "interventionNames": [
+                "Drug: Metformin"
+              ],
+              "label": "Metformin",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "160 mg",
+              "interventionNames": [
+                "Drug: Acetylsalicylic acid"
+              ],
+              "label": "Acetylsalicylic acid",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "300 mg x 2",
+              "interventionNames": [
+                "Drug: Olaparib"
+              ],
+              "label": "Olaparib",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "2.5 mg",
+              "interventionNames": [
+                "Drug: Letrozole"
+              ],
+              "label": "Letrozol",
+              "type": "EXPERIMENTAL"
+            }
+          ],
+          "interventions": [
+            {
+              "armGroupLabels": [
+                "Metformin"
+              ],
+              "description": "Metformin tablets 850 mg x 2 orally",
+              "name": "Metformin",
+              "type": "DRUG"
+            },
+            {
+              "armGroupLabels": [
+                "Acetylsalicylic acid"
+              ],
+              "description": "Acetylsalicylic acid tablets 160 mg x1 orally",
+              "name": "Acetylsalicylic acid",
+              "type": "DRUG"
+            },
+            {
+              "armGroupLabels": [
+                "Olaparib"
+              ],
+              "description": "Olaparib capsules 300 mg x 2 orally",
+              "name": "Olaparib",
+              "type": "DRUG"
+            },
+            {
+              "armGroupLabels": [
+                "Letrozol"
+              ],
+              "description": "Letrozol tablets 2.5 mg x 1 orally",
+              "name": "Letrozole",
+              "type": "DRUG"
+            }
+          ]
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Ovarian Cancer"
+          ],
+          "keywords": [
+            "Ovarian cancer",
+            "Phase 0",
+            "Window-of-opportunity",
+            "Suregry",
+            "Repurposing",
+            "Metformin",
+            "Acetylsalicylic acid",
+            "Olaparib",
+            "Letrozol"
+          ]
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "city": "Bergen",
+              "country": "Norway",
+              "facility": "Helse Bergen HF, Haukeland University Hospital",
+              "geoPoint": {
+                "lat": 60.39299,
+                "lon": 5.32415
+              },
+              "zip": "5021"
+            },
+            {
+              "city": "Stavanger",
+              "country": "Norway",
+              "facility": "Helse Stavanger HF, Stavanger University Hospital",
+              "geoPoint": {
+                "lat": 58.97005,
+                "lon": 5.73332
+              },
+              "zip": "4068"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "affiliation": "Helse-Bergen HF",
+              "name": "Line Bj\u00f8rge, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ]
+        },
+        "descriptionModule": {
+          "briefSummary": "The study will be conducted in women with advanced (stage IIIa-IV) ovarian cancer of the histologic subtype high grade serous carcinoma (HGSOC) who are going through a diagnostic laparoscopy. They will recieve treatment with a study agent for 10-14 days before surgery. They will be allocated to different study groups according to the diagnostic evaluation performed as standard of care at the department. The study is randomized and unblinded.\n\nThe primary investigational agents are:\n\n1. Metformin tablets, 850 mg x 2 orally.\n2. Acetylsalicylic acid tablets, 160 mg x1 orally\n3. Olaparib capsules, 300 mg x 2 orally\n4. Letrozol tablets, 2.5 mg x 1 orally",
+          "detailedDescription": "The women who agree to participate in the study prior to the laparoscopic evaluation, will be allocated to different study groups according to the diagnostic evaluation performed as standard of care at the department. During inclusion in the first study cohort, the olaparib cohort (n=32), an additional 16 women are randomized as controls and will not receive neither any study drug nor placebo. The study is unblinded. There will not be randomized controls into the other study cohorts, as the control group collected will be utilized as controls for all study agents.\n\nThe women in Arm I will be included in the WOO trial, and will be treated with the study agent for 10-14 days prior to tumor reductive surgery, starting the day of laparoscopic surgery (+1 day). The treatment will be discontinued at the time of tumor reductive surgery.\n\nCurrently fourmore agents are evaluated as of particular interest, as well as feasible to introduce, in the WOO study set up: metformin, acetylsalicylic acid, olaparib, and letrozol. The first agent listed in the protocol, metformin, will be given to 32 consequtive women, and drug related analyses will thereafter be performed. The next 32 women included in the study will receive the next agent on the list, acetylsalicylic acid, while analyses for the metformin group is ongoing, and after the acetylsalicylic acid study group has been included the next agent on the list is introduced. Should any of the included women be non-eligable to receive one study drug, they will either receive the next agent on the list of the four study drugs, if eligable, or be included as control.\n\nThe women in Arm II who agree to participate in the study will not receive the study medication, but standard neoadjuvant chemotherapy until having decreased tumor load radiologically estimated and scheduled for optimal debulking procedure according to standard treatment of this group of patients. Samples from these women will be used as control in the translational part of the where we aim to identify potential molecular pathway(s) and cell type(s) that may be responsible for suboptimal debulking.\n\nDuring the cancer-directed surgical procedure in participants in both Arms additional tissue samples from matching sites, preferably from tissues removed as part of the operation, as well as blood and urine samples, are obtained for comparative analysis. By use of the collected samples we can evaluate the clinical and molecular impact of the study agents among those triaged to primary cytoreductive surgery. Promising therapeutic targets identified might later be explored separately in one of the consequtive treatment study groups.\n\nAfter the debulking surgery all women will follow the recommended standard of care, including chemotherapy and consolidating bevacisumab where indicated."
+        },
+        "designModule": {
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "The first treatment cohort has a randomized design 2:1 (olaparib 32:control 16). The study is unblinded. In the following treatment arms are initiated each will included patients (n=32) will be offered the study-prespecified treatment drug.",
+            "maskingInfo": {
+              "masking": "NONE"
+            },
+            "primaryPurpose": "BASIC_SCIENCE"
+          },
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          },
+          "phases": [
+            "EARLY_PHASE1"
+          ],
+          "studyType": "INTERVENTIONAL"
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must have a clinical diagnosis of advanced ovarian, tubal or primary peritoneal cancer. Advanced disease is defined as at least stage 3 ovarian cancer. Definition of stages will be according to the Norwegian guidelines (Norsk Gynekologisk Forening, Veileder i gynekologisk onkologi, Kapittel: Eggstokk-, tube-, bukhinnekreft. Revisjon 01.12.15). If the clinical staff in charge of the patients plan to perform cytoreductive surgery, the patient can participate in the study, irrespective of ECOG performance status. Patients must not have metastases to the central nervous system and/or carcinomatous meningitis.\n2. Age 18 years or above\n3. Primary treatment setting. No prior treatment for gynecological cancer. Women who have been treated surgically for cervical cancer or precancerous lesions on the cervix can be included if she has finished treatment a year or more before current diagnosis of ovarian cancer.\n4. Must have laboratory values as the following :\n\n   * White Blood Cells \u2265 1.5 x 109/L\n   * Platelets \u2265 100 x 109/L\n   * Hemoglobin \u2265 9g/dL (\u2265 5.6 mmol/L)\n   * Creatinine \u2264 140 \u03bcmol/L; if creatinine is borderline, the creatinine clearance \u2265 40 mL/min;\n   * Bilirubin \\< 20 % above the upper limit of normal\n   * ASAT and ALAT \u2264 2.5 the upper limit of normal\n   * Albumin \u2265 2.5 g/L\n   * HbA1c \\< 8.0 %\n   * INR \\< 2.0\n5. All laboratory tests for screening are taken maximum 14 days before start of treatment with study drug.\n6. Ability to understand a written informed consent document, and the willingness to sign it.\n7. Presence of adequate venous accesses for required study blood samples\n\nExclusion Criteria:\n\n1. Inability to understand the information given and unable to consent and/or give the information requested, due to language, mental capacity, or disease.\n2. Inability to receive substances per os.\n3. Pregnancy. Pregnant women are excluded from this study, as terapeutic treatment for ovarian cancer includes teratogenic chemotherapy and surgical removal of the uterus and the ovaries.\n4. History of allergic reactions attributed to compounds of similar chemical or biologic composition to investigational drug or its composites.\n5. History of dysregulated coagulation or known bleeding disorder.\n6. Patients known to be Hepatitis B surface antigen positive, who have human immune deficiency virus (HIV) infection, and patients known or suspected to have active Hepatitis C infection.\n7. Patients diagnosed or treated for other malignancy within 1 year of administration of the first dose of the study agent, or previously diagnosed with other malignancy and have residual disease. Patients with non-melanoma skin cancer or any type of carcinoma in situ will not be excluded if they have had a complete tumor resection.\n8. Currently participate or have participated within the last four weeks of the first dose of the study agent in other studies including medication of participants.\n9. Diagnosis of immune deficiency disorder or having received immunosuppressant treatment within the last 7 days before planned intake of the first dose of the study agent. Corticosteroids in physiologic doses can be acceptable.\n10. Histologic diagnosis of non-High grade serous ovarian cancer.\n11. Presence of active tumors in the central nervous system and/or carcinomatous meningitis.\n12. Presence of active infection requiring systemic treatment.\n13. Current diagnosis of bowel obstruction (i.e. ileus or subileus).\n14. Individuals with indication of a condition, treatment or aberrant laboratory results that either can effect the results of this study or the sustainance of participation, such as renal failure stage \u2265 4, heart failure \u2265 New York Heart Association (NYHA) grade III, a medical history of severe psychiatric disease, or a current diagnosis of alkoholism or drug addiction.",
+          "healthyVolunteers": false,
+          "minimumAge": "18 Years",
+          "sex": "FEMALE",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "identificationModule": {
+          "acronym": "IMPACT",
+          "briefTitle": "IMPACT: A Randomized WOO Study of Novel Therapeutic Agents in Women Triaged to Primary Surgery for EOC",
+          "nctId": "NCT03378297",
+          "officialTitle": "IMPACT: A Phase 0 Randomized Window-of-Opportunity Study of Novel and Repurposed Therapeutic Agents in Women Triaged to Primary Surgery for Advanced Epithelial Ovarian Cancer in Stages IIIa - IV.",
+          "orgStudyIdInfo": {
+            "id": "2017/1168"
+          },
+          "organization": {
+            "class": "OTHER",
+            "fullName": "Haukeland University Hospital"
+          }
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "description": "A characterization of the tumor tissues from each patient will be performed (in pair). For each drug a specific biomarker is selected. The changes in expression of the defined biomarkers represent the primary outcome parameters. biomarkers related to the study agents and operability",
+              "measure": "Changes in the expression of biomarkers",
+              "timeFrame": "3 months"
+            }
+          ]
+        },
+        "oversightModule": {
+          "isFdaRegulatedDevice": false,
+          "isFdaRegulatedDrug": false,
+          "oversightHasDmc": false
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "citation": "Torkildsen CF, Austdal M, Iversen AC, Bathen TF, Giskeodegard GF, Nilsen EB, Iversen GA, Sande RK, Bjorge L, Thomsen LCV. Primary Treatment Effects for High-Grade Serous Ovarian Carcinoma Evaluated by Changes in Serum Metabolites and Lipoproteins. Metabolites. 2023 Mar 12;13(3):417. doi: 10.3390/metabo13030417.",
+              "pmid": "36984856",
+              "type": "RESULT"
+            },
+            {
+              "citation": "Torkildsen CF, Austdal M, Jarmund AH, Kleinmanns K, Lamark EK, Nilsen EB, Stefansson I, Sande RK, Iversen AC, Thomsen LCV, Bjorge L. New immune phenotypes for treatment response in high-grade serous ovarian carcinoma patients. Front Immunol. 2024 Jun 14;15:1394497. doi: 10.3389/fimmu.2024.1394497. eCollection 2024.",
+              "pmid": "38947323",
+              "type": "DERIVED"
+            }
+          ]
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "class": "OTHER",
+            "name": "Haukeland University Hospital"
+          },
+          "responsibleParty": {
+            "type": "SPONSOR"
+          }
+        },
+        "statusModule": {
+          "completionDateStruct": {
+            "date": "2023-01-05",
+            "type": "ACTUAL"
+          },
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2024-10-30",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2024-10-28",
+          "overallStatus": "COMPLETED",
+          "primaryCompletionDateStruct": {
+            "date": "2023-01-05",
+            "type": "ACTUAL"
+          },
+          "startDateStruct": {
+            "date": "2018-05-04",
+            "type": "ACTUAL"
+          },
+          "statusVerifiedDate": "2024-05",
+          "studyFirstPostDateStruct": {
+            "date": "2017-12-19",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2017-10-31",
+          "studyFirstSubmitQcDate": "2017-12-18"
+        }
+      }
+    },
+    {
+      "derivedSection": {
+        "conditionBrowseModule": {
+          "ancestors": [
+            {
+              "id": "D010048",
+              "term": "Ovarian Cysts"
+            },
+            {
+              "id": "D003560",
+              "term": "Cysts"
+            },
+            {
+              "id": "D009369",
+              "term": "Neoplasms"
+            },
+            {
+              "id": "D010049",
+              "term": "Ovarian Diseases"
+            },
+            {
+              "id": "D000291",
+              "term": "Adnexal Diseases"
+            },
+            {
+              "id": "D005831",
+              "term": "Genital Diseases, Female"
+            },
+            {
+              "id": "D052776",
+              "term": "Female Urogenital Diseases"
+            },
+            {
+              "id": "D005261",
+              "term": "Female Urogenital Diseases and Pregnancy Complications"
+            },
+            {
+              "id": "D000091642",
+              "term": "Urogenital Diseases"
+            },
+            {
+              "id": "D000091662",
+              "term": "Genital Diseases"
+            },
+            {
+              "id": "D006058",
+              "term": "Gonadal Disorders"
+            },
+            {
+              "id": "D004700",
+              "term": "Endocrine System Diseases"
+            }
+          ],
+          "meshes": [
+            {
+              "id": "D011085",
+              "term": "Polycystic Ovary Syndrome"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "ancestors": [
+            {
+              "id": "D055442",
+              "term": "Metabolome"
+            },
+            {
+              "id": "D008660",
+              "term": "Metabolism"
+            }
+          ],
+          "meshes": [
+            {
+              "id": "D000089282",
+              "term": "Secretome"
+            }
+          ]
+        },
+        "miscInfoModule": {
+          "versionHolder": "2026-06-29"
+        }
+      },
+      "hasResults": false,
+      "protocolSection": {
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "description": "Patients will be given tablet (placebo) once for 30 days, IV 0.3 million kg/bb UC-MSCs once, and nasal drop 0.5 ml/day (growth medium) for 30 days.",
+              "interventionNames": [
+                "Biological: UC-MSCs"
+              ],
+              "label": "WJ-MSCs",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "Patients will be given tablet (placebo) once for 30 days, IV placebo (NaCl 0.9%) once, and nasal drop 0.5 ml/day (Secretomes) for 30 days.",
+              "interventionNames": [
+                "Biological: Secretomes"
+              ],
+              "label": "Secretomes",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "Patients will be given tablet (placebo) once for 30 days, IV 0.3 million kg/bb UC-MSCs once, and nasal drop 0.5 ml/day (Secretomes) for 30 days.",
+              "interventionNames": [
+                "Biological: UC-MSCs and Secretomes"
+              ],
+              "label": "WJ-MSCs and Secretomes",
+              "type": "EXPERIMENTAL"
+            },
+            {
+              "description": "Patients will be given Metformin once for 30 days, IV placebo (NaCl 0.9%) once, and nasal drop 0.5 ml/day (growth medium) for 30 days.",
+              "interventionNames": [
+                "Biological: Control"
+              ],
+              "label": "Control",
+              "type": "PLACEBO_COMPARATOR"
+            }
+          ],
+          "interventions": [
+            {
+              "armGroupLabels": [
+                "WJ-MSCs"
+              ],
+              "description": "Treatment with tablet (placebo) once for 30 days, IV 0.3 million kg/bb UC-MSCs once, and nasal drop 0.5 ml/day (growth medium) for 30 days.",
+              "name": "UC-MSCs",
+              "type": "BIOLOGICAL"
+            },
+            {
+              "armGroupLabels": [
+                "Secretomes"
+              ],
+              "description": "Treatment with tablet (placebo) once for 30 days, IV placebo (NaCl 0.9%) once, and nasal drop 0.5 ml/day (Secretomes) for 30 days.",
+              "name": "Secretomes",
+              "type": "BIOLOGICAL"
+            },
+            {
+              "armGroupLabels": [
+                "WJ-MSCs and Secretomes"
+              ],
+              "description": "Treatment with tablet (placebo) once for 30 days, IV 0.3 million kg/bb UC-MSCs once, and nasal drop 0.5 ml/day (Secretomes) for 30 days.",
+              "name": "UC-MSCs and Secretomes",
+              "type": "BIOLOGICAL"
+            },
+            {
+              "armGroupLabels": [
+                "Control"
+              ],
+              "description": "Treatment with Metformin once for 30 days, IV placebo (NaCl 0.9%) once, and nasal drop 0.5 ml/day (growth medium) for 30 days.",
+              "name": "Control",
+              "type": "BIOLOGICAL"
+            }
+          ]
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Polycystic Ovary Syndrome"
+          ],
+          "keywords": [
+            "Umbilical Cord Mesenchymal Stem Cell",
+            "Secretome"
+          ]
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "city": "Jakarta",
+              "country": "Indonesia",
+              "facility": "PT Prodia StemCell Indonesia",
+              "geoPoint": {
+                "lat": -6.21462,
+                "lon": 106.84513
+              }
+            }
+          ],
+          "overallOfficials": [
+            {
+              "affiliation": "Prodia Stem Cell Indonesia",
+              "name": "Rima Haifa, B.Sc",
+              "role": "STUDY_CHAIR"
+            }
+          ]
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to investigating the effect of Umbilical Cord Mesenchymal Stem Cell (UC-MSCs) and secretomes to insulin resistance in Polycystic Ovary Syndrome (PCOS) patients. This study has 4 arms namely UC-MSCs treatment, secretomes treatment, UC-MSCs and secretomes treatment, and control.",
+          "detailedDescription": "The investigator hypothesized that PCOS patients with insulin resistance given combination of UC-MSCs and secretomes can improve their clinical and laboratory insulin resistance, haid ovulatory cycle and fertility. All group will be observed every 1,3, and 6 months after injection."
+        },
+        "designModule": {
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "maskingInfo": {
+              "masking": "SINGLE",
+              "whoMasked": [
+                "CARE_PROVIDER"
+              ]
+            },
+            "primaryPurpose": "TREATMENT"
+          },
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          },
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "studyType": "INTERVENTIONAL"
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* PCOS patients with insulin resistance based on Rotterdam Consensus criteria, i.e. menstrual disorders (oligomenorhea/ amennorhea)\n* Patients must have hiperandrogenemia clinical and laboratory proof (Ferriman Gallwey score \\>8)\n* Patients with Free Androgen Index (FAI) \\>4 and ovary polycystic from USG transvaginal\n* Patients with Homeostatic (HOMA) IR score \u2265 1.7\n\nExclusion Criteria:\n\n* Patients who are allergic to component of WJ-MSC or Secretome.\n* Patients who are not currently on hormon treatment of other resistance treatment.\n* Refusing or not participating in part / all of the research process.\n* Patients with positive diagnosis of hepatitis A,B,C, and HIV",
+          "healthyVolunteers": false,
+          "maximumAge": "40 Years",
+          "minimumAge": "20 Years",
+          "sex": "FEMALE",
+          "stdAges": [
+            "ADULT"
+          ]
+        },
+        "identificationModule": {
+          "briefTitle": "Stem Cells and Secretomes for Infertility Therapy in Polycystic Ovary Syndrome (PCOS) Patients With Insulin Resistance.",
+          "nctId": "NCT05279768",
+          "officialTitle": "Potential Use of Umbilical Cord Mesenchymal Stem Cells and Secretoms for Infertility Therapy in Polycystic Ovary Syndrome (PCOS) Patients With Insulin Resistance.",
+          "orgStudyIdInfo": {
+            "id": "CT/PCOS/PSI/2022"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "PT. Prodia Stem Cell Indonesia"
+          }
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "description": "Sampling of the subject's blood serum will be carried out during the follicular phase on day 10-12.",
+              "measure": "Blood serum sample",
+              "timeFrame": "Follicular phase on day 10-12"
+            },
+            {
+              "description": "Free Androgen index (FAI) is calculated by total testosterone x100/SHBG",
+              "measure": "Free Androgen index (FAI)",
+              "timeFrame": "Follicular phase on day 10-12"
+            },
+            {
+              "description": "insulin resistance is calculated by the method: HOMA: HOMA-IR = (insulin x glucose) / 22.5 and HOMA-\u00df = (20 x insulin) / glucose - 3.5.",
+              "measure": "Insulin, Glucose Plasma, and Insulin Resistance",
+              "timeFrame": "Follicular phase on day 10-12"
+            },
+            {
+              "description": "Parameter in testing the cytokine/adipokine/hormone profile",
+              "measure": "Sex Hormone Binding Globulin (SHBG) and Anti-Mullerian Hormone (AMH)",
+              "timeFrame": "Follicular phase on day 10-12, and 1,3,6 months after stem cells"
+            },
+            {
+              "description": "Parameter in testing the cytokine/adipokine/hormone profile",
+              "measure": "Leptin and Adiponectine Profile",
+              "timeFrame": "1,3,6 months after stem cells"
+            },
+            {
+              "description": "Parameter in testing the cytokine/adipokine/hormone profile",
+              "measure": "TNF\u03b1, IL-1 \u03b2, IL-6, IL-10 Profile",
+              "timeFrame": "1,3,6 months after stem cells"
+            }
+          ]
+        },
+        "oversightModule": {
+          "isFdaRegulatedDevice": false,
+          "isFdaRegulatedDrug": false,
+          "oversightHasDmc": true
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "class": "INDUSTRY",
+            "name": "PT. Prodia Stem Cell Indonesia"
+          },
+          "responsibleParty": {
+            "type": "SPONSOR"
+          }
+        },
+        "statusModule": {
+          "completionDateStruct": {
+            "date": "2025-01-20",
+            "type": "ACTUAL"
+          },
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-02-25",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-02-23",
+          "overallStatus": "COMPLETED",
+          "primaryCompletionDateStruct": {
+            "date": "2025-01-20",
+            "type": "ACTUAL"
+          },
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "statusVerifiedDate": "2026-02",
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-15",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2022-02-20",
+          "studyFirstSubmitQcDate": "2022-03-06"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "published_date": "Jun 29, 2026",
+      "setid": "25be863d-490c-47f6-9ad3-c828dc43fbf0",
+      "spl_version": 4,
+      "title": "METFORMIN HYDROCHLORIDE TABLET, FILM COATED [QUALLENT PHARMACEUTICALS HEALTH LLC]"
+    },
+    {
+      "published_date": "Jun 29, 2026",
+      "setid": "552ad61d-bafd-478d-e063-6294a90a02f9",
+      "spl_version": 1,
+      "title": "METFORMIN HYDROCHLORIDE TABLET [UNIT DOSE SOLUTIONS, INC.]"
+    },
+    {
+      "published_date": "Jun 29, 2026",
+      "setid": "552df462-6dcb-e6f2-e063-6294a90aacfe",
+      "spl_version": 1,
+      "title": "METFORMIN HCL TABLET [UNIT DOSE SOLUTIONS, INC.]"
+    }
+  ],
+  "metadata": {
+    "current_page": 1,
+    "current_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=metformin&pagesize=3",
+    "db_published_date": "Jun 29, 2026 08:59:47PM EST",
+    "elements_per_page": 3,
+    "next_page": 2,
+    "next_page_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=metformin&pagesize=3&page=2",
+    "previous_page": "null",
+    "previous_page_url": "null",
+    "total_elements": 546,
+    "total_pages": 182
+  }
+}

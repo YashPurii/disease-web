@@ -1,0 +1,155 @@
+{
+  "scope": "All DailyMed SPL records returned by drug_name across every API page; only indication/purpose sections were searched.",
+  "checks": {
+    "atorvastatin::chronic periodontitis": {
+      "drug": "atorvastatin",
+      "investigational_use": "Chronic Periodontitis",
+      "nct_id": "NCT07634341",
+      "label_records_scanned": 402,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "baricitinib::traumatic brain injury": {
+      "drug": "baricitinib",
+      "investigational_use": "traumatic brain injury",
+      "nct_id": "NCT06065046",
+      "label_records_scanned": 2,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "colchicine::pancreatic ductal adenocarcinoma": {
+      "drug": "colchicine",
+      "investigational_use": "pancreatic ductal adenocarcinoma",
+      "nct_id": "NCT06813079",
+      "label_records_scanned": 63,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "doxycycline::hiv infectious disease": {
+      "drug": "doxycycline",
+      "investigational_use": "HIV infectious disease",
+      "nct_id": "NCT07658976",
+      "label_records_scanned": 384,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "losartan::coronary artery disease": {
+      "drug": "losartan",
+      "investigational_use": "Coronary Artery Disease",
+      "nct_id": "NCT03417388",
+      "label_records_scanned": 309,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "metformin::endometriosis": {
+      "drug": "metformin",
+      "investigational_use": "Endometriosis",
+      "nct_id": "NCT06611501",
+      "label_records_scanned": 545,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "pregabalin::cough": {
+      "drug": "pregabalin",
+      "investigational_use": "Cough",
+      "nct_id": "NCT07288528",
+      "label_records_scanned": 283,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "sirolimus::aging": {
+      "drug": "sirolimus",
+      "investigational_use": "Aging",
+      "nct_id": "NCT06658093",
+      "label_records_scanned": 28,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "topiramate::tinnitus": {
+      "drug": "topiramate",
+      "investigational_use": "Tinnitus",
+      "nct_id": "NCT06799169",
+      "label_records_scanned": 236,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": []
+    },
+    "aspirin::stroke": {
+      "drug": "aspirin",
+      "investigational_use": "Stroke",
+      "nct_id": "NCT06486792",
+      "label_records_scanned": 1076,
+      "overlap_found": true,
+      "matches": [
+        {
+          "setid": "41386de5-5857-efab-e063-6294a90afd9c",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41386de5-5857-efab-e063-6294a90afd9c",
+          "note": "Aspirin 81 mg label: prevention of recurrent heart attack or stroke."
+        }
+      ],
+      "fetch_failures": []
+    },
+    "aspirin::ischemic stroke": {
+      "drug": "aspirin",
+      "investigational_use": "Ischemic Stroke",
+      "nct_id": "NCT06486792",
+      "label_records_scanned": 1076,
+      "overlap_found": true,
+      "matches": [
+        {
+          "setid": "111a4f6a-c3e4-43e2-8f0e-8c72f71cddb2",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=111a4f6a-c3e4-43e2-8f0e-8c72f71cddb2",
+          "note": "Aspirin/dipyridamole label: reduces stroke risk after ischemic stroke."
+        }
+      ],
+      "fetch_failures": []
+    },
+    "colchicine::cardiovascular diseases": {
+      "drug": "colchicine",
+      "investigational_use": "Cardiovascular Diseases",
+      "nct_id": "NCT05633810",
+      "label_records_scanned": 63,
+      "overlap_found": true,
+      "matches": [
+        {
+          "setid": "ff06d68f-d65f-d097-e053-6294a90a7e5f",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff06d68f-d65f-d097-e053-6294a90a7e5f",
+          "note": "LODOCO label: cardiovascular-event risk reduction."
+        }
+      ],
+      "fetch_failures": []
+    },
+    "gabapentin::osteoarthritis knee": {
+      "drug": "gabapentin",
+      "investigational_use": "Osteoarthritis, Knee",
+      "nct_id": "NCT07047040",
+      "label_records_scanned": 584,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": [
+        "DailyMed setid 8ae4a0c1-1424-47a9-9a59-7fe38bedc0c7 returned literal None from the XML endpoint."
+      ]
+    },
+    "sildenafil::traumatic brain injury": {
+      "drug": "sildenafil",
+      "investigational_use": "traumatic brain injury",
+      "nct_id": "NCT05782244",
+      "label_records_scanned": 217,
+      "overlap_found": false,
+      "matches": [],
+      "fetch_failures": [
+        "DailyMed setid 61c3866e-401d-48b3-a0d2-1e24a33ab512 returned literal None from the XML endpoint.",
+        "DailyMed setid 0720268c-2c92-4632-8c55-76c254d1beb8 returned literal None from the XML endpoint.",
+        "DailyMed setid 2eb90f6c-a5de-472a-98eb-cdc027e74e2e returned literal None from the XML endpoint."
+      ]
+    }
+  }
+}

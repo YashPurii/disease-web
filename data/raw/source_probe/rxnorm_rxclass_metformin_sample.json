@@ -1,0 +1,4399 @@
+{
+  "rxclass": {
+    "rxclassDrugInfoList": {
+      "rxclassDrugInfo": [
+        {
+          "minConcept": {
+            "name": "metformin / saxagliptin",
+            "rxcui": "1043562",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet",
+            "rxcui": "1043563",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet",
+            "rxcui": "1043563",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet [Kombiglyze]",
+            "rxcui": "1043567",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet [Kombiglyze]",
+            "rxcui": "1043567",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet",
+            "rxcui": "1043570",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet",
+            "rxcui": "1043570",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet [Kombiglyze]",
+            "rxcui": "1043574",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet [Kombiglyze]",
+            "rxcui": "1043574",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet",
+            "rxcui": "1043578",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet",
+            "rxcui": "1043578",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet [Kombiglyze]",
+            "rxcui": "1043582",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet [Kombiglyze]",
+            "rxcui": "1043582",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin / metformin",
+            "rxcui": "1243019",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1243020",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1243020",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Jentadueto]",
+            "rxcui": "1243026",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Jentadueto]",
+            "rxcui": "1243026",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1243027",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1243027",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Jentadueto]",
+            "rxcui": "1243033",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Jentadueto]",
+            "rxcui": "1243033",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet",
+            "rxcui": "1243034",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet",
+            "rxcui": "1243034",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet [Jentadueto]",
+            "rxcui": "1243040",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet [Jentadueto]",
+            "rxcui": "1243040",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet",
+            "rxcui": "1243827",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet",
+            "rxcui": "1243827",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 100 MG Extended Release Oral Tablet [Janumet]",
+            "rxcui": "1243833",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 100 MG Extended Release Oral Tablet [Janumet]",
+            "rxcui": "1243833",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 50 MG Extended Release Oral Tablet",
+            "rxcui": "1243842",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 50 MG Extended Release Oral Tablet",
+            "rxcui": "1243842",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet [Janumet]",
+            "rxcui": "1243843",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet [Janumet]",
+            "rxcui": "1243843",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin 50 MG Extended Release Oral Tablet",
+            "rxcui": "1243846",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin 50 MG Extended Release Oral Tablet",
+            "rxcui": "1243846",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet [Janumet]",
+            "rxcui": "1243848",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet [Janumet]",
+            "rxcui": "1243848",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin / metformin",
+            "rxcui": "1368384",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1368385",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1368385",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Kazano]",
+            "rxcui": "1368391",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Kazano]",
+            "rxcui": "1368391",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1368392",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1368392",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet [Kazano]",
+            "rxcui": "1368398",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet [Kazano]",
+            "rxcui": "1368398",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "dapagliflozin / metformin",
+            "rxcui": "1486436",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin / metformin",
+            "rxcui": "1545149",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1545150",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1545150",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545156",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545156",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1545157",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1545157",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 500 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545159",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 150 MG / metformin hydrochloride 500 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545159",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1545161",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1545161",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545163",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545163",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1545164",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1545164",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 500 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545166",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "canagliflozin 50 MG / metformin hydrochloride 500 MG Oral Tablet [Invokamet]",
+            "rxcui": "1545166",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1593058",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1593058",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1593068",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1593068",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1593070",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1593070",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1593072",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1593072",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593775",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593775",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593831",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593831",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593833",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593833",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593835",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1593835",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin / metformin",
+            "rxcui": "1664314",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1664315",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1664315",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 500 MG Oral Tablet [Synjardy]",
+            "rxcui": "1664321",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 500 MG Oral Tablet [Synjardy]",
+            "rxcui": "1664321",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1664323",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1664323",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet [Synjardy]",
+            "rxcui": "1664325",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet [Synjardy]",
+            "rxcui": "1664325",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1664326",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1664326",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 1000 MG Oral Tablet [Synjardy]",
+            "rxcui": "1664328",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 5 MG / metformin hydrochloride 1000 MG Oral Tablet [Synjardy]",
+            "rxcui": "1664328",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1665367",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1665367",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Synjardy]",
+            "rxcui": "1665369",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Synjardy]",
+            "rxcui": "1665369",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1796089",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1796089",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Jentadueto]",
+            "rxcui": "1796091",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Jentadueto]",
+            "rxcui": "1796091",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1796094",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1796094",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Jentadueto]",
+            "rxcui": "1796096",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Jentadueto]",
+            "rxcui": "1796096",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1807888",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1807888",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Osmotic 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1807894",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Osmotic 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1807894",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1807915",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1807915",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Osmotic 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1807917",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Osmotic 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1807917",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1810997",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1810997",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1810999",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1810999",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1811002",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1811002",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1811003",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 150 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1811003",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1811006",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1811006",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1811007",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1811007",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1811010",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "1811010",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1811011",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR canagliflozin 50 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Invokamet]",
+            "rxcui": "1811011",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862685",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862685",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862688",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862688",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862691",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862691",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862692",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862692",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862695",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862695",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862697",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862697",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862700",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1862700",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862701",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Synjardy]",
+            "rxcui": "1862701",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1940496",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "1940496",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1940498",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+            "rxcui": "1940498",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin / metformin",
+            "rxcui": "1992684",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1992685",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1992685",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992691",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992691",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1992693",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1992693",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992695",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992695",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1992698",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "1992698",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992700",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992700",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1992701",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "1992701",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 500 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992703",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "ertugliflozin 7.5 MG / metformin hydrochloride 500 MG Oral Tablet [Segluromet]",
+            "rxcui": "1992703",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "dapagliflozin / metformin / saxagliptin",
+            "rxcui": "2117292",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 100 MG/ML Extended Release Suspension",
+            "rxcui": "2200518",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 100 MG/ML Extended Release Suspension [Riomet]",
+            "rxcui": "2200520",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "empagliflozin / linagliptin / metformin",
+            "rxcui": "2281864",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D000138",
+            "className": "Acidosis",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "may_treat",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D003924",
+            "className": "Diabetes Mellitus, Type 2",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D004342",
+            "className": "Drug Hypersensitivity",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D008107",
+            "className": "Liver Diseases",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "has_ingredient",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D008687",
+            "className": "Metformin",
+            "classType": "CHEM"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D016883",
+            "className": "Diabetic Ketoacidosis",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D051437",
+            "className": "Renal Insufficiency",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "has_pk",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000000042",
+            "className": "Renal Excretion",
+            "classType": "PK"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "has_moa",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000000225",
+            "className": "Insulin Receptor Agonists",
+            "classType": "MOA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "has_pe",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000008646",
+            "className": "Decreased Gluconeogenesis",
+            "classType": "PE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "has_pe",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000008650",
+            "className": "Decreased Glycogenesis",
+            "classType": "PE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride",
+            "rxcui": "235743",
+            "tty": "PIN"
+          },
+          "rela": "has_pe",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000009341",
+            "className": "Increased Glucose Transport into Cells",
+            "classType": "PE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359279",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359279",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359285",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359285",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359288",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359288",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359290",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359290",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359351",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359351",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359353",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359353",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359356",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+            "rxcui": "2359356",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359358",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+            "rxcui": "2359358",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet [Zituvimet]",
+            "rxcui": "2677162",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet [Zituvimet]",
+            "rxcui": "2677162",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin 50 MG Oral Tablet [Zituvimet]",
+            "rxcui": "2677164",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin 50 MG Oral Tablet [Zituvimet]",
+            "rxcui": "2677164",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 50 MG Extended Release Oral Tablet [Zituvimet]",
+            "rxcui": "2696282",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 50 MG Extended Release Oral Tablet [Zituvimet]",
+            "rxcui": "2696282",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin 50 MG Extended Release Oral Tablet [Zituvimet]",
+            "rxcui": "2696284",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin 50 MG Extended Release Oral Tablet [Zituvimet]",
+            "rxcui": "2696284",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet [Zituvimet]",
+            "rxcui": "2696287",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet [Zituvimet]",
+            "rxcui": "2696287",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 750 MG Oral Tablet",
+            "rxcui": "2703582",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 750 MG Oral Tablet",
+            "rxcui": "2703582",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 100 MG Extended Release Oral Tablet",
+            "rxcui": "2709470",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 100 MG Extended Release Oral Tablet",
+            "rxcui": "2709470",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet",
+            "rxcui": "2709477",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet",
+            "rxcui": "2709477",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet",
+            "rxcui": "2709482",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet",
+            "rxcui": "2709482",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Oral Tablet",
+            "rxcui": "2709488",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Oral Tablet",
+            "rxcui": "2709488",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Oral Tablet",
+            "rxcui": "2709491",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Oral Tablet",
+            "rxcui": "2709491",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin / pioglitazone",
+            "rxcui": "607999",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin / rosiglitazone",
+            "rxcui": "614348",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "isa_structure",
+          "relaSource": "SNOMEDCT",
+          "rxclassMinConceptItem": {
+            "classId": "109082004",
+            "className": "Biguanide-containing product",
+            "classType": "STRUCT",
+            "classUrl": "http://snomed.info/id/109082004"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D000138",
+            "className": "Acidosis",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_chemical_structure",
+          "relaSource": "FDASPL",
+          "rxclassMinConceptItem": {
+            "classId": "D001645",
+            "className": "Biguanides",
+            "classType": "CHEM"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_chemical_structure",
+          "relaSource": "DAILYMED",
+          "rxclassMinConceptItem": {
+            "classId": "D001645",
+            "className": "Biguanides",
+            "classType": "CHEM"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "may_treat",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D003924",
+            "className": "Diabetes Mellitus, Type 2",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D004342",
+            "className": "Drug Hypersensitivity",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D008107",
+            "className": "Liver Diseases",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_ingredient",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D008687",
+            "className": "Metformin",
+            "classType": "CHEM"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D016883",
+            "className": "Diabetic Ketoacidosis",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "ci_with",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "D051437",
+            "className": "Renal Insufficiency",
+            "classType": "DISEASE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_pk",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000000042",
+            "className": "Renal Excretion",
+            "classType": "PK"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_moa",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000000225",
+            "className": "Insulin Receptor Agonists",
+            "classType": "MOA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_pe",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000008646",
+            "className": "Decreased Gluconeogenesis",
+            "classType": "PE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_pe",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000008650",
+            "className": "Decreased Glycogenesis",
+            "classType": "PE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_pe",
+          "relaSource": "MEDRT",
+          "rxclassMinConceptItem": {
+            "classId": "N0000009341",
+            "className": "Increased Glucose Transport into Cells",
+            "classType": "PE"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_epc",
+          "relaSource": "FDASPL",
+          "rxclassMinConceptItem": {
+            "classId": "N0000175565",
+            "className": "Biguanide",
+            "classType": "EPC"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin",
+            "rxcui": "6809",
+            "tty": "IN"
+          },
+          "rela": "has_epc",
+          "relaSource": "DAILYMED",
+          "rxclassMinConceptItem": {
+            "classId": "N0000175565",
+            "className": "Biguanide",
+            "classType": "EPC"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin / sitagliptin",
+            "rxcui": "729717",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin / repaglinide",
+            "rxcui": "802646",
+            "tty": "MIN"
+          },
+          "rela": "",
+          "relaSource": "ATC",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "860975",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+            "rxcui": "860975",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet [Glucophage]",
+            "rxcui": "860977",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet [Glucophage]",
+            "rxcui": "860977",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 750 MG Extended Release Oral Tablet",
+            "rxcui": "860981",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 750 MG Extended Release Oral Tablet",
+            "rxcui": "860981",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 750 MG Extended Release Oral Tablet [Glucophage]",
+            "rxcui": "860983",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "24 HR metformin hydrochloride 750 MG Extended Release Oral Tablet [Glucophage]",
+            "rxcui": "860983",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "861004",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG Oral Tablet",
+            "rxcui": "861004",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG Oral Tablet [Glucophage]",
+            "rxcui": "861006",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG Oral Tablet [Glucophage]",
+            "rxcui": "861006",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861007",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861007",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG Oral Tablet [Glucophage]",
+            "rxcui": "861008",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG Oral Tablet [Glucophage]",
+            "rxcui": "861008",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG Oral Tablet",
+            "rxcui": "861010",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG Oral Tablet",
+            "rxcui": "861010",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG Oral Tablet [Glucophage]",
+            "rxcui": "861012",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG Oral Tablet [Glucophage]",
+            "rxcui": "861012",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet [Glumetza]",
+            "rxcui": "861015",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet [Glumetza]",
+            "rxcui": "861015",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet [Glumetza]",
+            "rxcui": "861018",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "Modified 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet [Glumetza]",
+            "rxcui": "861018",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 625 MG Oral Tablet",
+            "rxcui": "861021",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 625 MG Oral Tablet",
+            "rxcui": "861021",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 100 MG/ML Oral Solution",
+            "rxcui": "861025",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 100 MG/ML Oral Solution",
+            "rxcui": "861025",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 100 MG/ML Oral Solution [Riomet]",
+            "rxcui": "861027",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BA",
+            "className": "Biguanides",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 100 MG/ML Oral Solution [Riomet]",
+            "rxcui": "861027",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glipizide 2.5 MG / metformin hydrochloride 250 MG Oral Tablet",
+            "rxcui": "861731",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glipizide 2.5 MG / metformin hydrochloride 250 MG Oral Tablet",
+            "rxcui": "861731",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glipizide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861736",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glipizide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861736",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glipizide 5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861740",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glipizide 5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861740",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet",
+            "rxcui": "861743",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BB",
+            "className": "Sulfonylureas",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet",
+            "rxcui": "861743",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861748",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BB",
+            "className": "Sulfonylureas",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861748",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861753",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BB",
+            "className": "Sulfonylureas",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet",
+            "rxcui": "861753",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / rosiglitazone 2 MG Oral Tablet",
+            "rxcui": "861760",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / rosiglitazone 2 MG Oral Tablet",
+            "rxcui": "861760",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / rosiglitazone 4 MG Oral Tablet",
+            "rxcui": "861763",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / rosiglitazone 4 MG Oral Tablet",
+            "rxcui": "861763",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet",
+            "rxcui": "861769",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet",
+            "rxcui": "861769",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Oral Tablet [Janumet]",
+            "rxcui": "861771",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Oral Tablet [Janumet]",
+            "rxcui": "861771",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / pioglitazone 15 MG Oral Tablet",
+            "rxcui": "861783",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / pioglitazone 15 MG Oral Tablet",
+            "rxcui": "861783",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / pioglitazone 15 MG Oral Tablet [Actoplus Met]",
+            "rxcui": "861785",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / pioglitazone 15 MG Oral Tablet [Actoplus Met]",
+            "rxcui": "861785",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / repaglinide 1 MG Oral Tablet",
+            "rxcui": "861787",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / repaglinide 2 MG Oral Tablet",
+            "rxcui": "861790",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / rosiglitazone 1 MG Oral Tablet",
+            "rxcui": "861795",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / rosiglitazone 1 MG Oral Tablet",
+            "rxcui": "861795",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / rosiglitazone 2 MG Oral Tablet",
+            "rxcui": "861806",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / rosiglitazone 2 MG Oral Tablet",
+            "rxcui": "861806",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / rosiglitazone 4 MG Oral Tablet",
+            "rxcui": "861816",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / rosiglitazone 4 MG Oral Tablet",
+            "rxcui": "861816",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin 50 MG Oral Tablet",
+            "rxcui": "861819",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin 50 MG Oral Tablet",
+            "rxcui": "861819",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Oral Tablet [Janumet]",
+            "rxcui": "861821",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Oral Tablet [Janumet]",
+            "rxcui": "861821",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG / pioglitazone 15 MG Oral Tablet",
+            "rxcui": "861822",
+            "tty": "SCD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG / pioglitazone 15 MG Oral Tablet",
+            "rxcui": "861822",
+            "tty": "SCD"
+          },
+          "rela": "has_VAClass",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG / pioglitazone 15 MG Oral Tablet [Actoplus Met]",
+            "rxcui": "861824",
+            "tty": "SBD"
+          },
+          "rela": "",
+          "relaSource": "ATCPROD",
+          "rxclassMinConceptItem": {
+            "classId": "A10BD",
+            "className": "Combinations of oral blood glucose lowering drugs",
+            "classType": "ATC1-4"
+          }
+        },
+        {
+          "minConcept": {
+            "name": "metformin hydrochloride 850 MG / pioglitazone 15 MG Oral Tablet [Actoplus Met]",
+            "rxcui": "861824",
+            "tty": "SBD"
+          },
+          "rela": "has_VAClass_extended",
+          "relaSource": "VA",
+          "rxclassMinConceptItem": {
+            "classId": "HS502",
+            "className": "ORAL HYPOGLYCEMIC AGENTS,ORAL",
+            "classType": "VA"
+          }
+        }
+      ]
+    }
+  },
+  "rxclass_http_status": 200,
+  "rxnorm": {
+    "idGroup": {
+      "rxnormId": [
+        "6809"
+      ]
+    }
+  }
+}

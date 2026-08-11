@@ -1,0 +1,50 @@
+[
+  {
+    "Appl_No": "215328",
+    "Appl_Type": "A",
+    "Ingredient": "BUDESONIDE",
+    "Trade_Name": "BUDESONIDE"
+  },
+  {
+    "Appl_No": "205613",
+    "Appl_Type": "N",
+    "Ingredient": "BUDESONIDE",
+    "Trade_Name": "UCERIS"
+  },
+  {
+    "Appl_No": "212379",
+    "Appl_Type": "N",
+    "Ingredient": "MINOCYCLINE HYDROCHLORIDE",
+    "Trade_Name": "AMZEEQ"
+  },
+  {
+    "Appl_No": "210928",
+    "Appl_Type": "A",
+    "Ingredient": "AZELAIC ACID",
+    "Trade_Name": "AZELAIC ACID"
+  },
+  {
+    "Appl_No": "215832",
+    "Appl_Type": "A",
+    "Ingredient": "BETAMETHASONE VALERATE",
+    "Trade_Name": "BETAMETHASONE VALERATE"
+  },
+  {
+    "Appl_No": "207144",
+    "Appl_Type": "A",
+    "Ingredient": "BETAMETHASONE VALERATE",
+    "Trade_Name": "BETAMETHASONE VALERATE"
+  },
+  {
+    "Appl_No": "078337",
+    "Appl_Type": "A",
+    "Ingredient": "BETAMETHASONE VALERATE",
+    "Trade_Name": "BETAMETHASONE VALERATE"
+  },
+  {
+    "Appl_No": "208204",
+    "Appl_Type": "A",
+    "Ingredient": "BETAMETHASONE VALERATE",
+    "Trade_Name": "BETAMETHASONE VALERATE"
+  }
+]

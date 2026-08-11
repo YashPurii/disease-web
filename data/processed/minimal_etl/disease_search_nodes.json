@@ -1,0 +1,802 @@
+[
+  {
+    "id": "disease:mondo:MONDO_0011438",
+    "label": "acne",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0011438",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0018874",
+    "label": "acute myeloid leukemia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0018874",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D059787",
+    "label": "Acute Pain",
+    "mesh_id": "D059787",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0007079",
+    "label": "alcohol dependence",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0007079",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D000506",
+    "label": "Alopecia Areata",
+    "mesh_id": "D000506",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005339",
+    "label": "androgenetic alopecia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005339",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D000787",
+    "label": "Angina Pectoris",
+    "mesh_id": "D000787",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D001171",
+    "label": "Arthritis, Juvenile",
+    "mesh_id": "D001171",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D001172",
+    "label": "Arthritis, Rheumatoid",
+    "mesh_id": "D001172",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0004980",
+    "label": "atopic eczema",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0004980",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D001281",
+    "label": "Atrial Fibrillation",
+    "mesh_id": "D001281",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0019502",
+    "label": "autosomal recessive non-syndromic intellectual disability",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0019502",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mondo:MONDO_0015759",
+    "label": "B-cell non-Hodgkin lymphoma",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0015759",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0010811",
+    "label": "benign prostatic hyperplasia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0010811",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0007254",
+    "label": "breast cancer",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0007254",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D002051",
+    "label": "Burkitt Lymphoma",
+    "mesh_id": "D002051",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D002318",
+    "label": "Cardiovascular Diseases",
+    "mesh_id": "D002318",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0002974",
+    "label": "cervical cancer",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0002974",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005300",
+    "label": "chronic kidney disease",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005300",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0004234",
+    "label": "chronic lymphoproliferative disorder of NK-cells",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0004234",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0011996",
+    "label": "chronic myeloid leukemia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0011996",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D055113",
+    "label": "Chronic Periodontitis",
+    "mesh_id": "D055113",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005453",
+    "label": "congenital heart disease",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005453",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D003324",
+    "label": "Coronary Artery Disease",
+    "mesh_id": "D003324",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005010",
+    "label": "coronary artery disorder",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005010",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D003371",
+    "label": "Cough",
+    "mesh_id": "D003371",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D000086382",
+    "label": "COVID-19",
+    "mesh_id": "D000086382",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D000080424",
+    "label": "Cytokine Release Syndrome",
+    "mesh_id": "D000080424",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D003920",
+    "label": "Diabetes Mellitus",
+    "mesh_id": "D003920",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005015",
+    "label": "diabetes mellitus",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005015",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D003922",
+    "label": "Diabetes Mellitus, Type 1",
+    "mesh_id": "D003922",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D003924",
+    "label": "Diabetes Mellitus, Type 2",
+    "mesh_id": "D003924",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005016",
+    "label": "diabetic kidney disease",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005016",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005023",
+    "label": "ductal breast carcinoma in situ",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005023",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D004487",
+    "label": "Edema",
+    "mesh_id": "D004487",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D004715",
+    "label": "Endometriosis",
+    "mesh_id": "D004715",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D004827",
+    "label": "Epilepsy",
+    "mesh_id": "D004827",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D007172",
+    "label": "Erectile Dysfunction",
+    "mesh_id": "D007172",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D020329",
+    "label": "Essential Tremor",
+    "mesh_id": "D020329",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D010505",
+    "label": "Familial Mediterranean Fever",
+    "mesh_id": "D010505",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005030",
+    "label": "fetal growth restriction",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005030",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D005334",
+    "label": "Fever",
+    "mesh_id": "D005334",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D005356",
+    "label": "Fibromyalgia",
+    "mesh_id": "D005356",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0006763",
+    "label": "frozen shoulder",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0006763",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D046152",
+    "label": "Gastrointestinal Stromal Tumors",
+    "mesh_id": "D046152",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D013700",
+    "label": "Giant Cell Arteritis",
+    "mesh_id": "D013700",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D005909",
+    "label": "Glioblastoma",
+    "mesh_id": "D005909",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D006073",
+    "label": "Gout",
+    "mesh_id": "D006073",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0013730",
+    "label": "graft versus host disease",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0013730",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D014890",
+    "label": "Granulomatosis with Polyangiitis",
+    "mesh_id": "D014890",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D006333",
+    "label": "Heart Failure",
+    "mesh_id": "D006333",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D017497",
+    "label": "Hidradenitis Suppurativa",
+    "mesh_id": "D017497",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005109",
+    "label": "HIV infectious disease",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005109",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D006929",
+    "label": "Hyperaldosteronism",
+    "mesh_id": "D006929",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0011153",
+    "label": "hyperinsulinemic hypoglycemia, familial, 2",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0011153",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mondo:MONDO_0021187",
+    "label": "hyperlipidemia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0021187",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D006973",
+    "label": "Hypertension",
+    "mesh_id": "D006973",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0009406",
+    "label": "Hypertrichotic osteochondrodysplasia, Cantu type",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0009406",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D007249",
+    "label": "Inflammation",
+    "mesh_id": "D007249",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D015212",
+    "label": "Inflammatory Bowel Diseases",
+    "mesh_id": "D015212",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D007333",
+    "label": "Insulin Resistance",
+    "mesh_id": "D007333",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D000083242",
+    "label": "Ischemic Stroke",
+    "mesh_id": "D000083242",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0010788",
+    "label": "Leber hereditary optic neuropathy",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0010788",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mondo:MONDO_0009723",
+    "label": "Leigh syndrome",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0009723",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mondo:MONDO_0004670",
+    "label": "lupus erythematosus",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0004670",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0009539",
+    "label": "lymphoblastic leukemia, acute, with lymphomatous features",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0009539",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D008228",
+    "label": "Lymphoma, Non-Hodgkin",
+    "mesh_id": "D008228",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D003865",
+    "label": "Major Depressive Disorder",
+    "mesh_id": "D003865",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D008288",
+    "label": "Malaria",
+    "mesh_id": "D008288",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005277",
+    "label": "migraine disorder",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005277",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0100133",
+    "label": "mitochondrial complex I deficiency",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0100133",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D009101",
+    "label": "Multiple Myeloma",
+    "mesh_id": "D009101",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D009182",
+    "label": "Mycosis Fungoides",
+    "mesh_id": "D009182",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0044903",
+    "label": "myelofibrosis",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0044903",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D017202",
+    "label": "Myocardial Ischemia",
+    "mesh_id": "D017202",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0006359",
+    "label": "neoplasm with perivascular epithelioid cell differentiation",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0006359",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D009765",
+    "label": "Obesity",
+    "mesh_id": "D009765",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005530",
+    "label": "opiate dependence",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005530",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D020370",
+    "label": "Osteoarthritis, Knee",
+    "mesh_id": "D020370",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D010024",
+    "label": "Osteoporosis",
+    "mesh_id": "D010024",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005184",
+    "label": "pancreatic ductal adenocarcinoma",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005184",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D017699",
+    "label": "Pelvic Pain",
+    "mesh_id": "D017699",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0009693",
+    "label": "plasma cell myeloma",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0009693",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D011085",
+    "label": "Polycystic Ovary Syndrome",
+    "mesh_id": "D011085",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D011087",
+    "label": "Polycythemia Vera",
+    "mesh_id": "D011087",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0041052",
+    "label": "postherpetic neuralgia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0041052",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D006473",
+    "label": "Postpartum Hemorrhage",
+    "mesh_id": "D006473",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D054198",
+    "label": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+    "mesh_id": "D054198",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D011565",
+    "label": "Psoriasis",
+    "mesh_id": "D011565",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D000081029",
+    "label": "Pulmonary Arterial Hypertension",
+    "mesh_id": "D000081029",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005086",
+    "label": "renal cell carcinoma",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005086",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D012208",
+    "label": "Rhabdomyosarcoma",
+    "mesh_id": "D012208",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D016574",
+    "label": "Seasonal Affective Disorder",
+    "mesh_id": "D016574",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mesh:D020521",
+    "label": "Stroke",
+    "mesh_id": "D020521",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0019469",
+    "label": "T-cell large granular lymphocyte leukemia",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0019469",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mesh:D014012",
+    "label": "Tinnitus",
+    "mesh_id": "D014012",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0858950",
+    "label": "traumatic brain injury",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0858950",
+    "node_category": "disease",
+    "source": "MONDO"
+  },
+  {
+    "id": "disease:mondo:MONDO_0005148",
+    "label": "type 2 diabetes mellitus",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0005148",
+    "node_category": "disease",
+    "source": "Open Targets"
+  },
+  {
+    "id": "disease:mesh:D014549",
+    "label": "Urinary Incontinence",
+    "mesh_id": "D014549",
+    "mondo_id": null,
+    "node_category": "disease",
+    "source": "MeSH"
+  },
+  {
+    "id": "disease:mondo:MONDO_0859169",
+    "label": "White-Kernohan syndrome",
+    "mesh_id": null,
+    "mondo_id": "MONDO_0859169",
+    "node_category": "disease",
+    "source": "Open Targets"
+  }
+]
